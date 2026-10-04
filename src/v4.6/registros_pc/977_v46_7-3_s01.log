@@ -1,0 +1,15 @@
+[0] Tablero 8x8, 10 colores, 12 hilos
+[1] Esquinas juntas: las esquinas son parte de la búsqueda; un solo recorrido para todos los grupos
+    grupo 1, orden menos opciones: estimado 2.6e+14 nodos
+    grupo 1, orden interior primero: estimado 3.25e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 3.25e+13(i)   (i) = interior primero
+[2] Grupo 1/1: ruta unificada (mapas por lado), orden: interior primero; grupo grande: 3 estrategias a la vez (normal, pieza menos restrictiva, reinicios)
+    ... 5.0 s | grupo 1/1 | 3809592 nodos | revisado 2.06e-05%, faltan ~113 días [interior primero 2.06e-05%, interior primero + pieza menos restrictiva 1.64e-07%, reinicios, interior primero 7.00e-05%] (Knuth: ~199 días) | máximo colocado 49 de 64 | hilos 8 de 12
+    ... 7.0 s | grupo 1/1 | 7565058 nodos | revisado 4.77e-05%, faltan ~98 días [interior primero 4.77e-05%, interior primero + pieza menos restrictiva 5.27e-07%, reinicios, interior primero 4.04e-03%] (Knuth: ~200 días) | máximo colocado 50 de 64 | hilos 8 de 12
+    ... 9.0 s | grupo 1/1 | 11385112 nodos | revisado 1.20e-04%, faltan ~58 días [interior primero 1.20e-04%, interior primero + pieza menos restrictiva 8.63e-07%, reinicios, interior primero 4.19e-03%] (Knuth: ~199 días) | máximo colocado 50 de 64 | hilos 8 de 12
+    ... 11.1 s | grupo 1/1 | 15176214 nodos | revisado 1.62e-04%, faltan ~58 días [interior primero 1.62e-04%, interior primero + pieza menos restrictiva 1.54e-06%, reinicios, interior primero 4.24e-03%] (Knuth: ~199 días) | máximo colocado 52 de 64 | hilos 8 de 12
+    ... 13.1 s | grupo 1/1 | 18948552 nodos | revisado 1.95e-04%, faltan ~60 días [interior primero 1.95e-04%, interior primero + pieza menos restrictiva 1.90e-06%, reinicios, interior primero 4.58e-03%] (Knuth: ~199 días) | máximo colocado 52 de 64 | hilos 8 de 12
+    portafolio: encontró la solución el equipo "interior primero" (nodos: interior primero 7489006, interior primero + pieza menos restrictiva 5416960, reinicios, interior primero 8011776)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 14 s
+RESULTADO resuelto=1 ms=14110.5 marcos=0 nodos=20917742 grupos=1/1 hilos=12 t_marcos=0.000 t_interior=11.100 lados=0 unificado=1 max_colocadas=64

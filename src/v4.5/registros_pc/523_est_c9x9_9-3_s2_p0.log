@@ -1,0 +1,16 @@
+[0] Tablero 9x9, 12 colores, 12 hilos
+[1] Esquina fija (2,3). 6 grupos, orden por coste: 6.54e+25 6.54e+25 6.54e+25 6.54e+25 6.57e+25 6.57e+25
+    grupo 1, orden menos opciones: estimado 9.66e+15 nodos
+    grupo 1, orden interior primero: estimado 1.41e+15 nodos
+    grupo 2, orden menos opciones: estimado 3.33e+16 nodos
+    grupo 2, orden interior primero: estimado 5.03e+14 nodos
+    grupo 3, orden menos opciones: estimado 1.13e+16 nodos
+    grupo 3, orden interior primero: estimado 7.11e+14 nodos
+    grupo 4, orden menos opciones: estimado 1.34e+16 nodos
+    grupo 4, orden interior primero: estimado 5.71e+14 nodos
+    grupo 5, orden menos opciones: estimado 1.37e+16 nodos
+    grupo 5, orden interior primero: estimado 6.04e+14 nodos
+    grupo 6, orden menos opciones: estimado 2.29e+16 nodos
+    grupo 6, orden interior primero: estimado 1.39e+15 nodos
+[1] Grupos ordenados por estimado de Knuth (nodos): 5.03e+14(i) 5.71e+14(i) 6.04e+14(i) 7.11e+14(i) 1.39e+15(i) 1.41e+15(i)   (i) = interior primero
+ESTIMADO total=5.197e+15 grupos=6 ms=10114.5

@@ -1,0 +1,52 @@
+[0] Tablero 10x10, 13 colores, 12 hilos
+[1] Con piezas fijas: las 4 esquinas se prueban arriba a la izquierda. 24 grupos, orden por coste: 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31 1.21e+31
+    grupo 1, orden menos opciones: estimado 1.65e+21 nodos
+    grupo 1, orden interior primero: estimado 5.4e+17 nodos
+    grupo 2, orden menos opciones: estimado 3.73e+20 nodos
+    grupo 2, orden interior primero: estimado 8.32e+17 nodos
+    grupo 3, orden menos opciones: estimado 3.31e+20 nodos
+    grupo 3, orden interior primero: estimado 3.49e+17 nodos
+    grupo 4, orden menos opciones: estimado 3.1e+20 nodos
+    grupo 4, orden interior primero: estimado 9.54e+17 nodos
+    grupo 5, orden menos opciones: estimado 3.94e+20 nodos
+    grupo 5, orden interior primero: estimado 3.55e+17 nodos
+    grupo 6, orden menos opciones: estimado 4.07e+20 nodos
+    grupo 6, orden interior primero: estimado 2.36e+17 nodos
+    grupo 7, orden menos opciones: estimado 4.36e+20 nodos
+    grupo 7, orden interior primero: estimado 4.64e+17 nodos
+    grupo 8, orden menos opciones: estimado 2.21e+21 nodos
+    grupo 8, orden interior primero: estimado 3.95e+17 nodos
+    grupo 9, orden menos opciones: estimado 1.12e+21 nodos
+    grupo 9, orden interior primero: estimado 3.96e+17 nodos
+    grupo 10, orden menos opciones: estimado 6.94e+20 nodos
+    grupo 10, orden interior primero: estimado 1.16e+18 nodos
+    grupo 11, orden menos opciones: estimado 4.37e+20 nodos
+    grupo 11, orden interior primero: estimado 1.11e+18 nodos
+    grupo 12, orden menos opciones: estimado 2.84e+20 nodos
+    grupo 12, orden interior primero: estimado 3.98e+17 nodos
+    grupo 13, orden menos opciones: estimado 1.29e+20 nodos
+    grupo 13, orden interior primero: estimado 2.23e+17 nodos
+    grupo 14, orden menos opciones: estimado 2.64e+20 nodos
+    grupo 14, orden interior primero: estimado 3.26e+17 nodos
+    grupo 15, orden menos opciones: estimado 3.8e+20 nodos
+    grupo 15, orden interior primero: estimado 2.99e+17 nodos
+    grupo 16, orden menos opciones: estimado 7.8e+20 nodos
+    grupo 16, orden interior primero: estimado 3.83e+17 nodos
+    grupo 17, orden menos opciones: estimado 4.48e+20 nodos
+    grupo 17, orden interior primero: estimado 3.07e+17 nodos
+    grupo 18, orden menos opciones: estimado 2.11e+20 nodos
+    grupo 18, orden interior primero: estimado 1.45e+18 nodos
+    grupo 19, orden menos opciones: estimado 1.32e+20 nodos
+    grupo 19, orden interior primero: estimado 1.93e+19 nodos
+    grupo 20, orden menos opciones: estimado 8.35e+20 nodos
+    grupo 20, orden interior primero: estimado 6.97e+17 nodos
+    grupo 21, orden menos opciones: estimado 6.97e+20 nodos
+    grupo 21, orden interior primero: estimado 5.85e+17 nodos
+    grupo 22, orden menos opciones: estimado 4.43e+21 nodos
+    grupo 22, orden interior primero: estimado 7.86e+17 nodos
+    grupo 23, orden menos opciones: estimado 1.77e+21 nodos
+    grupo 23, orden interior primero: estimado 2.35e+17 nodos
+    grupo 24, orden menos opciones: estimado 1.47e+20 nodos
+    grupo 24, orden interior primero: estimado 1.02e+18 nodos
+[1] Grupos ordenados por estimado de Knuth (nodos): 2.23e+17(i) 2.35e+17(i) 2.36e+17(i) 2.99e+17(i) 3.07e+17(i) 3.26e+17(i) 3.49e+17(i) 3.55e+17(i) 3.83e+17(i) 3.95e+17(i) 3.96e+17(i) 3.98e+17(i) 4.64e+17(i) 5.4e+17(i) 5.85e+17(i) 6.97e+17(i) 7.86e+17(i) 8.32e+17(i) 9.54e+17(i) 1.02e+18(i) 1.11e+18(i) 1.16e+18(i) 1.45e+18(i) 1.93e+19(i)   (i) = interior primero
+ESTIMADO total=3.281e+19 grupos=24 ms=14713.7

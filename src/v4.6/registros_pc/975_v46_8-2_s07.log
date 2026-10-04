@@ -1,0 +1,16 @@
+[0] Tablero 8x8, 10 colores, 12 hilos
+[1] Esquinas juntas: las esquinas son parte de la búsqueda; un solo recorrido para todos los grupos
+    grupo 1, orden menos opciones: estimado 9.32e+12 nodos
+    grupo 1, orden interior primero: estimado 7.74e+10 nodos
+[1] Estimado de Knuth por grupo (nodos): 7.74e+10(i)   (i) = interior primero
+[2] Grupo 1/1: ruta unificada (mapas por lado), orden: interior primero; grupo grande: 3 estrategias a la vez (normal, pieza menos restrictiva, reinicios)
+    ... 5.0 s | grupo 1/1 | 3360816 nodos | revisado 7.83e-04%, faltan ~3 días [interior primero 7.83e-04%, interior primero + pieza menos restrictiva 6.39e-05%, reinicios, interior primero 7.47e-03%] (Knuth: ~12.8 h) | máximo colocado 49 de 64 | hilos 8 de 12
+    ... 7.0 s | grupo 1/1 | 6233960 nodos | revisado 1.66e-03%, faltan ~3 días [interior primero 1.66e-03%, interior primero + pieza menos restrictiva 1.26e-04%, reinicios, interior primero 0.012%] (Knuth: ~13.8 h) | máximo colocado 50 de 64 | hilos 8 de 12
+    ... 9.0 s | grupo 1/1 | 10191637 nodos | revisado 2.69e-03%, faltan ~3 días [interior primero 2.69e-03%, interior primero + pieza menos restrictiva 2.91e-04%, reinicios, interior primero 0.026%] (Knuth: ~12.7 h) | máximo colocado 51 de 64 | hilos 8 de 12
+    ... 11.0 s | grupo 1/1 | 14142724 nodos | revisado 4.52e-03%, faltan ~2 días [interior primero 4.52e-03%, interior primero + pieza menos restrictiva 5.05e-04%, reinicios, interior primero 0.042%] (Knuth: ~12.2 h) | máximo colocado 51 de 64 | hilos 8 de 12
+    ... 13.1 s | grupo 1/1 | 18097274 nodos | revisado 7.18e-03%, faltan ~38.9 h [interior primero 7.18e-03%, interior primero + pieza menos restrictiva 7.23e-04%, reinicios, interior primero 0.053%] (Knuth: ~11.9 h) | máximo colocado 51 de 64 | hilos 8 de 12
+    ... 15.1 s | grupo 1/1 | 22078457 nodos | revisado 8.07e-03%, faltan ~41.4 h [interior primero 8.07e-03%, interior primero + pieza menos restrictiva 8.74e-04%, reinicios, interior primero 0.063%] (Knuth: ~11.7 h) | máximo colocado 51 de 64 | hilos 8 de 12
+    portafolio: encontró la solución el equipo "reinicios, interior primero" (nodos: interior primero 9318400, interior primero + pieza menos restrictiva 6760448, reinicios, interior primero 9447238)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 17 s
+RESULTADO resuelto=1 ms=16808.4 marcos=0 nodos=25526086 grupos=1/1 hilos=12 t_marcos=0.000 t_interior=13.799 lados=0 unificado=1 max_colocadas=64

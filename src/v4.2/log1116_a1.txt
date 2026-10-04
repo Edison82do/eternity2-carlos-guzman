@@ -1,0 +1,67 @@
+[0] Tablero 11x11, 16 colores, 2 hilos
+[1] Esquina fija (6,24). 6 grupos, orden por coste: 9.58e+16 9.6e+16 9.6e+16 9.6e+16 9.61e+16 9.61e+16
+[2] Grupo 1/6: ruta unificada (mapas por lado)
+    ... 2.0 s, 507875 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 4.0 s, 945704 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 6.0 s, 1450567 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 8.0 s, 1958867 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 10.0 s, 2474822 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 12.0 s, 3000562 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 14.0 s, 3535536 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 16.0 s, 4102693 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 18.0 s, 4607620 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 20.0 s, 5103965 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 22.0 s, 5585618 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 24.0 s, 6029137 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 26.0 s, 6523966 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 28.1 s, 7008180 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 30.1 s, 7587439 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 32.1 s, 8088152 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 34.1 s, 8592106 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 36.1 s, 9119120 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 38.1 s, 9641294 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 40.1 s, 10181371 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+    ... 42.1 s, 10684285 nodos, máximo colocado: 77 de 121 piezas, hilos trabajando: 2 de 2
+[4] Grupo 1: sin solución
+[2] Grupo 2/6: ruta unificada (mapas por lado)
+    ... 45.8 s, 531504 nodos, máximo colocado: 71 de 121 piezas, hilos trabajando: 2 de 2
+    ... 47.8 s, 1043764 nodos, máximo colocado: 71 de 121 piezas, hilos trabajando: 2 de 2
+    ... 49.8 s, 1536657 nodos, máximo colocado: 71 de 121 piezas, hilos trabajando: 2 de 2
+    ... 51.8 s, 2107655 nodos, máximo colocado: 71 de 121 piezas, hilos trabajando: 2 de 2
+    ... 53.8 s, 2616162 nodos, máximo colocado: 71 de 121 piezas, hilos trabajando: 2 de 2
+    ... 55.8 s, 3130535 nodos, máximo colocado: 71 de 121 piezas, hilos trabajando: 2 de 2
+    ... 57.8 s, 3615402 nodos, máximo colocado: 73 de 121 piezas, hilos trabajando: 2 de 2
+    ... 59.8 s, 4134840 nodos, máximo colocado: 73 de 121 piezas, hilos trabajando: 2 de 2
+    ... 61.8 s, 4663647 nodos, máximo colocado: 73 de 121 piezas, hilos trabajando: 2 de 2
+    ... 63.8 s, 5124652 nodos, máximo colocado: 74 de 121 piezas, hilos trabajando: 2 de 2
+    ... 65.8 s, 5690447 nodos, máximo colocado: 74 de 121 piezas, hilos trabajando: 2 de 2
+    ... 67.8 s, 6217952 nodos, máximo colocado: 74 de 121 piezas, hilos trabajando: 2 de 2
+    ... 69.8 s, 6746505 nodos, máximo colocado: 74 de 121 piezas, hilos trabajando: 2 de 2
+    ... 71.8 s, 7258121 nodos, máximo colocado: 76 de 121 piezas, hilos trabajando: 2 de 2
+    ... 73.8 s, 7769570 nodos, máximo colocado: 76 de 121 piezas, hilos trabajando: 2 de 2
+    ... 75.8 s, 8358876 nodos, máximo colocado: 76 de 121 piezas, hilos trabajando: 2 de 2
+    ... 77.8 s, 8880492 nodos, máximo colocado: 76 de 121 piezas, hilos trabajando: 2 de 2
+    ... 79.8 s, 9386070 nodos, máximo colocado: 76 de 121 piezas, hilos trabajando: 2 de 2
+    ... 81.8 s, 9888201 nodos, máximo colocado: 76 de 121 piezas, hilos trabajando: 2 de 2
+    ... 83.8 s, 10378635 nodos, máximo colocado: 76 de 121 piezas, hilos trabajando: 2 de 2
+    ... 85.8 s, 10879585 nodos, máximo colocado: 76 de 121 piezas, hilos trabajando: 2 de 2
+[4] Grupo 2: sin solución
+[2] Grupo 3/6: ruta unificada (mapas por lado)
+    ... 89.4 s, 553401 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 91.4 s, 1075211 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 93.4 s, 1550734 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 95.4 s, 2049768 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 97.5 s, 2571714 nodos, máximo colocado: 75 de 121 piezas, hilos trabajando: 2 de 2
+    ... 99.5 s, 3081846 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 101.5 s, 3606613 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 103.5 s, 4132857 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 105.5 s, 4644518 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 107.5 s, 5135752 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 109.5 s, 5656744 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 111.5 s, 6159049 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 113.5 s, 6673610 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 115.5 s, 7199543 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 117.5 s, 7693452 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+    ... 119.5 s, 8184369 nodos, máximo colocado: 80 de 121 piezas, hilos trabajando: 2 de 2
+[4] Grupo 3: SOLUCIÓN. Verificación: OK
+RESULTADO resuelto=1 ms=121018.4 marcos=0 nodos=30977603 grupos=3/6 hilos=2 t_marcos=0.000 t_interior=121.018 lados=0 unificado=1 max_colocadas=121

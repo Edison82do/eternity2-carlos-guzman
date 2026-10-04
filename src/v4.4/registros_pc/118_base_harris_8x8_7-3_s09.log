@@ -1,0 +1,23 @@
+[0] Tablero 8x8, 10 colores, 12 hilos
+[1] Esquina fija (3,2). 3 grupos, orden por coste: 2.79e+20 2.79e+20 2.79e+20
+    grupo 1, orden menos opciones: estimado 2.67e+14 nodos
+    grupo 1, orden interior primero: estimado 1.91e+14 nodos
+    grupo 2, orden menos opciones: estimado 3.3e+14 nodos
+    grupo 2, orden interior primero: estimado 2.78e+14 nodos
+    grupo 3, orden menos opciones: estimado 2.88e+14 nodos
+    grupo 3, orden interior primero: estimado 2.97e+14 nodos
+[1] Estimado de Knuth por grupo (nodos): 2.67e+14 3.3e+14 2.88e+14   (i) = interior primero
+[2] Grupo 1/3: ruta unificada (mapas por lado), orden: casilla con menos opciones
+    ... 5.1 s | grupo 1/3 | 2620768 nodos | revisado 8.13e-06%, faltan ~285 días (Knuth: ~6.45 años) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 7.1 s | grupo 1/3 | 5225758 nodos | revisado 1.55e-05%, faltan ~299 días (Knuth: ~6.47 años) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 9.1 s | grupo 1/3 | 7885660 nodos | revisado 2.01e-05%, faltan ~345 días (Knuth: ~6.44 años) | máximo colocado 55 de 64 | hilos 12 de 12
+    ... 11.1 s | grupo 1/3 | 10566753 nodos | revisado 2.24e-05%, faltan ~415 días (Knuth: ~6.41 años) | máximo colocado 55 de 64 | hilos 12 de 12
+    ... 13.1 s | grupo 1/3 | 13259300 nodos | revisado 2.49e-05%, faltan ~466 días (Knuth: ~6.38 años) | máximo colocado 55 de 64 | hilos 12 de 12
+    ... 15.1 s | grupo 1/3 | 15969637 nodos | revisado 3.39e-05%, faltan ~412 días (Knuth: ~6.37 años) | máximo colocado 55 de 64 | hilos 12 de 12
+    ... 17.1 s | grupo 1/3 | 18668244 nodos | revisado 3.95e-05%, faltan ~412 días (Knuth: ~6.36 años) | máximo colocado 57 de 64 | hilos 12 de 12
+    ... 19.1 s | grupo 1/3 | 21393612 nodos | revisado 4.64e-05%, faltan ~401 días (Knuth: ~6.34 años) | máximo colocado 57 de 64 | hilos 12 de 12
+    ... 21.1 s | grupo 1/3 | 24112761 nodos | revisado 5.55e-05%, faltan ~377 días (Knuth: ~6.33 años) | máximo colocado 61 de 64 | hilos 12 de 12
+    ... 23.1 s | grupo 1/3 | 26791376 nodos | revisado 6.02e-05%, faltan ~386 días (Knuth: ~6.33 años) | máximo colocado 61 de 64 | hilos 12 de 12
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 25 s
+RESULTADO resuelto=1 ms=24629.1 marcos=0 nodos=28759410 grupos=1/3 hilos=12 t_marcos=0.000 t_interior=21.567 lados=0 unificado=1 max_colocadas=64

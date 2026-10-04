@@ -1,0 +1,28 @@
+[0] Tablero 8x8, 10 colores, 12 hilos
+[1] Esquina fija (2,1). 6 grupos, orden por coste: 6.64e+24 6.64e+24 6.64e+24 6.64e+24 6.64e+24 6.64e+24
+    grupo 1, orden menos opciones: estimado 1.87e+13 nodos
+    grupo 1, orden interior primero: estimado 1.38e+12 nodos
+    grupo 2, orden menos opciones: estimado 4.8e+13 nodos
+    grupo 2, orden interior primero: estimado 1.31e+12 nodos
+    grupo 3, orden menos opciones: estimado 2.71e+13 nodos
+    grupo 3, orden interior primero: estimado 9.91e+11 nodos
+    grupo 4, orden menos opciones: estimado 3.39e+13 nodos
+    grupo 4, orden interior primero: estimado 1.17e+12 nodos
+    grupo 5, orden menos opciones: estimado 2.9e+13 nodos
+    grupo 5, orden interior primero: estimado 1.37e+12 nodos
+    grupo 6, orden menos opciones: estimado 1.74e+13 nodos
+    grupo 6, orden interior primero: estimado 9.33e+11 nodos
+[1] Estimado de Knuth por grupo (nodos): 1.38e+12(i) 1.31e+12(i) 9.91e+11(i) 1.17e+12(i) 1.37e+12(i) 9.33e+11(i)   (i) = interior primero
+[2] Grupo 1/6: ruta unificada (mapas por lado), orden: interior primero
+    ... 5.7 s | grupo 1/6 | 2124445 nodos | revisado 7.0%, faltan ~27 s (Knuth: ~15 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 7.7 s | grupo 1/6 | 4269763 nodos | revisado 7.0%, faltan ~53 s (Knuth: ~15 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 9.7 s | grupo 1/6 | 6413058 nodos | revisado 7.0%, faltan ~80 s (Knuth: ~15 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 11.7 s | grupo 1/6 | 8557408 nodos | revisado 7.0%, faltan ~106 s (Knuth: ~15 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 13.7 s | grupo 1/6 | 10713483 nodos | revisado 7.0%, faltan ~2 min (Knuth: ~15 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 15.7 s | grupo 1/6 | 12858854 nodos | revisado 7.0%, faltan ~3 min (Knuth: ~15 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 17.7 s | grupo 1/6 | 15000530 nodos | revisado 7.0%, faltan ~3 min (Knuth: ~15 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 19.7 s | grupo 1/6 | 17174021 nodos | revisado 7.0%, faltan ~4 min (Knuth: ~15 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 21.7 s | grupo 1/6 | 19311136 nodos | revisado 7.0%, faltan ~4 min (Knuth: ~15 días) | máximo colocado 53 de 64 | hilos 12 de 12
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 23 s
+RESULTADO resuelto=1 ms=23097.9 marcos=0 nodos=20778329 grupos=1/6 hilos=12 t_marcos=0.000 t_interior=19.449 lados=0 unificado=1 max_colocadas=64

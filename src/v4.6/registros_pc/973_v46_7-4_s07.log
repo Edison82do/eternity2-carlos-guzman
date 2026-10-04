@@ -1,0 +1,15 @@
+[0] Tablero 8x8, 11 colores, 12 hilos
+[1] Esquinas juntas: las esquinas son parte de la búsqueda; un solo recorrido para todos los grupos
+    grupo 1, orden menos opciones: estimado 3.06e+14 nodos
+    grupo 1, orden interior primero: estimado 5.25e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 5.25e+13(i)   (i) = interior primero
+[2] Grupo 1/1: ruta unificada (mapas por lado), orden: interior primero; grupo grande: 3 estrategias a la vez (normal, pieza menos restrictiva, reinicios)
+    ... 5.0 s | grupo 1/1 | 3306888 nodos | revisado 3.48e-05%, faltan ~66 días [interior primero 3.48e-05%, interior primero + pieza menos restrictiva 7.57e-08%, reinicios, interior primero 1.5%] (Knuth: ~368 días) | máximo colocado 54 de 64 | hilos 8 de 12
+    ... 7.0 s | grupo 1/1 | 6628379 nodos | revisado 4.23e-05%, faltan ~110 días [interior primero 4.23e-05%, interior primero + pieza menos restrictiva 1.45e-07%, reinicios, interior primero 1.5%] (Knuth: ~368 días) | máximo colocado 54 de 64 | hilos 8 de 12
+    ... 9.0 s | grupo 1/1 | 9954722 nodos | revisado 6.04e-05%, faltan ~116 días [interior primero 6.04e-05%, interior primero + pieza menos restrictiva 2.45e-07%, reinicios, interior primero 4.6%] (Knuth: ~368 días) | máximo colocado 54 de 64 | hilos 8 de 12
+    ... 11.1 s | grupo 1/1 | 13330370 nodos | revisado 7.52e-05%, faltan ~124 días [interior primero 7.52e-05%, interior primero + pieza menos restrictiva 4.90e-07%, reinicios, interior primero 4.6%] (Knuth: ~367 días) | máximo colocado 54 de 64 | hilos 8 de 12
+    ... 13.1 s | grupo 1/1 | 16674863 nodos | revisado 1.09e-04%, faltan ~107 días [interior primero 1.09e-04%, interior primero + pieza menos restrictiva 1.09e-06%, reinicios, interior primero 4.6%] (Knuth: ~367 días) | máximo colocado 54 de 64 | hilos 8 de 12
+    portafolio: encontró la solución el equipo "reinicios, interior primero" (nodos: interior primero 5810176, interior primero + pieza menos restrictiva 4651008, reinicios, interior primero 6940417)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 14 s
+RESULTADO resuelto=1 ms=13542.9 marcos=0 nodos=17401601 grupos=1/1 hilos=12 t_marcos=0.000 t_interior=10.533 lados=0 unificado=1 max_colocadas=64

@@ -1,0 +1,15 @@
+grande_9x9_9-3_s01 a=0 resuelto=0 ms=60002.1 marcos=0 nodos=135641088 grupos=1/3 max_colocadas=71 
+grande_9x9_9-3_s01 a=2 resuelto=0 ms=60007.3 marcos=0 nodos=12242944 grupos=1/3 max_colocadas=58 
+grande_9x9_9-3_s02 a=0 resuelto=0 ms=60002.7 marcos=0 nodos=123793408 grupos=1/6 max_colocadas=71 
+grande_9x9_9-3_s02 a=2 resuelto=0 ms=60009.1 marcos=0 nodos=13853696 grupos=1/6 max_colocadas=60 
+grande_9x9_9-3_s03 a=0 resuelto=0 ms=60002.3 marcos=0 nodos=123917312 grupos=1/6 max_colocadas=71 
+grande_9x9_9-3_s03 a=2 resuelto=0 ms=60010.8 marcos=0 nodos=12665856 grupos=1/6 max_colocadas=58 
+grande_10x10_10-3_s01 a=0 resuelto=0 ms=60002.0 marcos=0 nodos=136287232 grupos=1/6 max_colocadas=88 
+grande_10x10_10-3_s01 a=2 resuelto=0 ms=60014.5 marcos=0 nodos=10213376 grupos=1/6 max_colocadas=75 
+grande_10x10_10-3_s02 a=0 resuelto=0 ms=60003.8 marcos=0 nodos=111589376 grupos=1/3 max_colocadas=86 
+grande_10x10_10-3_s02 a=2 resuelto=0 ms=60006.8 marcos=0 nodos=10075136 grupos=1/3 max_colocadas=76 
+grande_10x10_12-4_s01 a=0 resuelto=0 ms=60005.6 marcos=0 nodos=87574528 grupos=1/6 max_colocadas=81 
+grande_10x10_12-4_s01 a=2 resuelto=0 ms=60014.4 marcos=0 nodos=7633920 grupos=1/6 max_colocadas=67 
+grande_12x12_14-4_s01 a=0 resuelto=0 ms=60001.2 marcos=0 nodos=66816000 grupos=1/6 max_colocadas=122 
+grande_12x12_14-4_s01 a=2 resuelto=0 ms=60018.8 marcos=0 nodos=4452352 grupos=1/6 max_colocadas=103 
+FIN

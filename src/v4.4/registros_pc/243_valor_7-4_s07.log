@@ -1,0 +1,54 @@
+[0] Tablero 8x8, 11 colores, 12 hilos
+[1] Esquina fija (2,2). 6 grupos, orden por coste: 3.98e+19 3.98e+19 3.98e+19 3.98e+19 3.98e+19 3.98e+19
+    grupo 1, orden menos opciones: estimado 4.1e+13 nodos
+    grupo 1, orden interior primero: estimado 1.32e+13 nodos
+    grupo 2, orden menos opciones: estimado 5.02e+13 nodos
+    grupo 2, orden interior primero: estimado 1.9e+13 nodos
+    grupo 3, orden menos opciones: estimado 1.92e+13 nodos
+    grupo 3, orden interior primero: estimado 1.74e+13 nodos
+    grupo 4, orden menos opciones: estimado 4.57e+13 nodos
+    grupo 4, orden interior primero: estimado 1.33e+13 nodos
+    grupo 5, orden menos opciones: estimado 2.23e+13 nodos
+    grupo 5, orden interior primero: estimado 3.11e+13 nodos
+    grupo 6, orden menos opciones: estimado 3.12e+13 nodos
+    grupo 6, orden interior primero: estimado 2.1e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 1.32e+13(i) 5.02e+13 1.92e+13 1.33e+13(i) 2.23e+13 3.12e+13   (i) = interior primero
+[2] Grupo 1/6: ruta unificada (mapas por lado), orden: interior primero
+    ... 5.7 s | grupo 1/6 | 1647815 nodos | revisado 2.93e-06%, faltan ~796 días (Knuth: ~188 días) | máximo colocado 48 de 64 | hilos 12 de 12
+    ... 7.7 s | grupo 1/6 | 3301219 nodos | revisado 9.46e-06%, faltan ~493 días (Knuth: ~187 días) | máximo colocado 49 de 64 | hilos 12 de 12
+    ... 9.7 s | grupo 1/6 | 4950173 nodos | revisado 1.19e-05%, faltan ~586 días (Knuth: ~187 días) | máximo colocado 49 de 64 | hilos 12 de 12
+    ... 11.7 s | grupo 1/6 | 6581174 nodos | revisado 1.59e-05%, faltan ~583 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 13.7 s | grupo 1/6 | 8237213 nodos | revisado 2.27e-05%, faltan ~513 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 15.7 s | grupo 1/6 | 9869841 nodos | revisado 3.55e-05%, faltan ~393 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 17.7 s | grupo 1/6 | 11526298 nodos | revisado 3.74e-05%, faltan ~435 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 19.7 s | grupo 1/6 | 13170920 nodos | revisado 3.94e-05%, faltan ~472 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 21.7 s | grupo 1/6 | 14825916 nodos | revisado 4.06e-05%, faltan ~514 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 23.7 s | grupo 1/6 | 16473392 nodos | revisado 4.22e-05%, faltan ~551 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 25.7 s | grupo 1/6 | 18115421 nodos | revisado 4.39e-05%, faltan ~581 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 27.7 s | grupo 1/6 | 19782762 nodos | revisado 4.61e-05%, faltan ~605 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 29.7 s | grupo 1/6 | 21436173 nodos | revisado 5.52e-05%, faltan ~547 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 31.8 s | grupo 1/6 | 23090905 nodos | revisado 6.32e-05%, faltan ~514 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 33.8 s | grupo 1/6 | 24725480 nodos | revisado 6.90e-05%, faltan ~505 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 35.8 s | grupo 1/6 | 26339654 nodos | revisado 7.12e-05%, faltan ~522 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 37.8 s | grupo 1/6 | 27967151 nodos | revisado 7.35e-05%, faltan ~537 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 39.8 s | grupo 1/6 | 29626372 nodos | revisado 7.63e-05%, faltan ~548 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 41.8 s | grupo 1/6 | 31298157 nodos | revisado 7.81e-05%, faltan ~566 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 43.8 s | grupo 1/6 | 32925656 nodos | revisado 8.02e-05%, faltan ~579 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 45.8 s | grupo 1/6 | 34557418 nodos | revisado 8.44e-05%, faltan ~578 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 47.8 s | grupo 1/6 | 36203758 nodos | revisado 1.02e-04%, faltan ~502 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 49.8 s | grupo 1/6 | 37865272 nodos | revisado 1.06e-04%, faltan ~506 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 51.8 s | grupo 1/6 | 39527106 nodos | revisado 1.10e-04%, faltan ~507 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 53.8 s | grupo 1/6 | 41180458 nodos | revisado 1.13e-04%, faltan ~514 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 55.8 s | grupo 1/6 | 42819060 nodos | revisado 1.16e-04%, faltan ~522 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 57.8 s | grupo 1/6 | 44438291 nodos | revisado 1.20e-04%, faltan ~525 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 59.9 s | grupo 1/6 | 46092233 nodos | revisado 1.26e-04%, faltan ~516 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 61.9 s | grupo 1/6 | 47752614 nodos | revisado 1.32e-04%, faltan ~509 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 63.9 s | grupo 1/6 | 49406418 nodos | revisado 1.37e-04%, faltan ~509 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 65.9 s | grupo 1/6 | 51043514 nodos | revisado 1.38e-04%, faltan ~520 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 67.9 s | grupo 1/6 | 52664806 nodos | revisado 1.40e-04%, faltan ~532 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 69.9 s | grupo 1/6 | 54304246 nodos | revisado 1.43e-04%, faltan ~536 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 71.9 s | grupo 1/6 | 55940865 nodos | revisado 1.46e-04%, faltan ~541 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 73.9 s | grupo 1/6 | 57596464 nodos | revisado 1.49e-04%, faltan ~547 días (Knuth: ~187 días) | máximo colocado 51 de 64 | hilos 12 de 12
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 74 s
+RESULTADO resuelto=1 ms=74339.5 marcos=0 nodos=57929079 grupos=1/6 hilos=12 t_marcos=0.000 t_interior=70.685 lados=0 unificado=1 max_colocadas=64

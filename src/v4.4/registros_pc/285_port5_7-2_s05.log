@@ -1,0 +1,23 @@
+[0] Tablero 8x8, 9 colores, 12 hilos
+[1] Esquina fija (2,1). 3 grupos, orden por coste: 7.86e+24 7.86e+24 7.86e+24
+    grupo 1, orden menos opciones: estimado 4.73e+14 nodos
+    grupo 1, orden interior primero: estimado 2.51e+13 nodos
+    grupo 2, orden menos opciones: estimado 4.44e+14 nodos
+    grupo 2, orden interior primero: estimado 3.71e+13 nodos
+    grupo 3, orden menos opciones: estimado 8.87e+14 nodos
+    grupo 3, orden interior primero: estimado 2.13e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 2.51e+13(i) 3.71e+13(i) 2.13e+13(i)   (i) = interior primero
+[2] Grupo 1/3: ruta unificada (mapas por lado), orden: PORTAFOLIO de 4 equipos (2 órdenes, normal y al azar)
+    ... 5.1 s | grupo 1/3 | 2227191 nodos | revisado 1.5%, faltan ~2 min [interior primero 5.51e-06%, interior primero + pieza menos restrictiva 1.5%, reinicios, interior primero 6.98e-06%] (Knuth: ~261 días) | máximo colocado 50 de 64 | hilos 8 de 12
+    ... 7.1 s | grupo 1/3 | 4459548 nodos | revisado 1.5%, faltan ~5 min [interior primero 9.69e-06%, interior primero + pieza menos restrictiva 1.5%, reinicios, interior primero 1.80e-05%] (Knuth: ~261 días) | máximo colocado 57 de 64 | hilos 8 de 12
+    ... 9.1 s | grupo 1/3 | 6668368 nodos | revisado 1.5%, faltan ~7 min [interior primero 1.19e-05%, interior primero + pieza menos restrictiva 1.5%, reinicios, interior primero 2.09e-05%] (Knuth: ~262 días) | máximo colocado 57 de 64 | hilos 8 de 12
+    ... 11.1 s | grupo 1/3 | 8883207 nodos | revisado 1.5%, faltan ~9 min [interior primero 1.46e-05%, interior primero + pieza menos restrictiva 1.5%, reinicios, interior primero 2.67e-05%] (Knuth: ~262 días) | máximo colocado 57 de 64 | hilos 8 de 12
+    ... 13.1 s | grupo 1/3 | 11113848 nodos | revisado 1.5%, faltan ~11 min [interior primero 1.74e-05%, interior primero + pieza menos restrictiva 1.5%, reinicios, interior primero 4.86e-05%] (Knuth: ~262 días) | máximo colocado 57 de 64 | hilos 8 de 12
+    ... 15.1 s | grupo 1/3 | 13329688 nodos | revisado 1.5%, faltan ~14 min [interior primero 1.95e-05%, interior primero + pieza menos restrictiva 1.5%, reinicios, interior primero 5.38e-05%] (Knuth: ~262 días) | máximo colocado 57 de 64 | hilos 8 de 12
+    ... 17.1 s | grupo 1/3 | 15512778 nodos | revisado 1.5%, faltan ~16 min [interior primero 2.21e-05%, interior primero + pieza menos restrictiva 1.5%, reinicios, interior primero 5.72e-05%] (Knuth: ~263 días) | máximo colocado 57 de 64 | hilos 8 de 12
+    ... 19.1 s | grupo 1/3 | 17726322 nodos | revisado 1.5%, faltan ~18 min [interior primero 2.38e-05%, interior primero + pieza menos restrictiva 1.5%, reinicios, interior primero 6.10e-05%] (Knuth: ~263 días) | máximo colocado 57 de 64 | hilos 8 de 12
+    ... 21.1 s | grupo 1/3 | 19949908 nodos | revisado 1.5%, faltan ~20 min [interior primero 2.62e-05%, interior primero + pieza menos restrictiva 1.5%, reinicios, interior primero 6.62e-05%] (Knuth: ~263 días) | máximo colocado 57 de 64 | hilos 8 de 12
+    portafolio: encontró la solución el equipo "reinicios, interior primero" (nodos: interior primero 7689216, interior primero + pieza menos restrictiva 5783552, reinicios, interior primero 7859535)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 22 s
+RESULTADO resuelto=1 ms=22345.1 marcos=0 nodos=21332303 grupos=1/3 hilos=12 t_marcos=0.000 t_interior=19.283 lados=0 unificado=1 max_colocadas=64

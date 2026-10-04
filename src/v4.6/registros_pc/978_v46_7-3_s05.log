@@ -1,0 +1,14 @@
+[0] Tablero 8x8, 10 colores, 12 hilos
+[1] Esquinas juntas: las esquinas son parte de la búsqueda; un solo recorrido para todos los grupos
+    grupo 1, orden menos opciones: estimado 1.25e+15 nodos
+    grupo 1, orden interior primero: estimado 3.72e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 3.72e+13(i)   (i) = interior primero
+[2] Grupo 1/1: ruta unificada (mapas por lado), orden: interior primero; grupo grande: 3 estrategias a la vez (normal, pieza menos restrictiva, reinicios)
+    ... 5.0 s | grupo 1/1 | 3574453 nodos | revisado 8.91e-06%, faltan ~261 días [interior primero 8.91e-06%, interior primero + pieza menos restrictiva 9.91e-08%, reinicios, interior primero 6.62e-05%] (Knuth: ~242 días) | máximo colocado 50 de 64 | hilos 8 de 12
+    ... 7.0 s | grupo 1/1 | 7095315 nodos | revisado 2.44e-05%, faltan ~191 días [interior primero 2.44e-05%, interior primero + pieza menos restrictiva 2.32e-07%, reinicios, interior primero 1.55e-04%] (Knuth: ~244 días) | máximo colocado 53 de 64 | hilos 8 de 12
+    ... 9.0 s | grupo 1/1 | 10671914 nodos | revisado 3.31e-05%, faltan ~211 días [interior primero 3.31e-05%, interior primero + pieza menos restrictiva 4.25e-07%, reinicios, interior primero 2.39e-04%] (Knuth: ~243 días) | máximo colocado 53 de 64 | hilos 8 de 12
+    ... 11.0 s | grupo 1/1 | 14189915 nodos | revisado 4.89e-05%, faltan ~190 días [interior primero 4.89e-05%, interior primero + pieza menos restrictiva 6.25e-07%, reinicios, interior primero 3.03e-04%] (Knuth: ~244 días) | máximo colocado 53 de 64 | hilos 8 de 12
+    portafolio: encontró la solución el equipo "interior primero" (nodos: interior primero 5099693, interior primero + pieza menos restrictiva 4215808, reinicios, interior primero 4925440)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 11 s
+RESULTADO resuelto=1 ms=11082.1 marcos=0 nodos=14240941 grupos=1/1 hilos=12 t_marcos=0.000 t_interior=8.072 lados=0 unificado=1 max_colocadas=64

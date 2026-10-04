@@ -1,0 +1,3 @@
+FALLA tableros/gen_7x7_c6_s2.txt 2 RESULTADO resuelto=0 ms=60007.4 marcos=0 nodos=19445760 grupos=1/1 hilos=2 t_mar
+FALLA tableros/gen_7x7_c6_s2.txt 3 RESULTADO resuelto=0 ms=60005.1 marcos=0 nodos=19514368 grupos=1/1 hilos=2 t_mar
+con pieza fija: resueltos 142 fallas 2

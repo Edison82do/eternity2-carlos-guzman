@@ -1,0 +1,23 @@
+[0] Tablero 8x8, 10 colores, 12 hilos
+[1] Esquina fija (1,1). 6 grupos, orden por coste: 9.87e+24 9.87e+24 9.87e+24 9.87e+24 9.87e+24 9.87e+24
+    grupo 1, orden menos opciones: estimado 4.28e+12 nodos
+    grupo 1, orden interior primero: estimado 3.64e+11 nodos
+    grupo 2, orden menos opciones: estimado 4.98e+12 nodos
+    grupo 2, orden interior primero: estimado 3.54e+11 nodos
+    grupo 3, orden menos opciones: estimado 7.87e+12 nodos
+    grupo 3, orden interior primero: estimado 3.69e+11 nodos
+    grupo 4, orden menos opciones: estimado 2.2e+12 nodos
+    grupo 4, orden interior primero: estimado 3.15e+11 nodos
+    grupo 5, orden menos opciones: estimado 3.33e+12 nodos
+    grupo 5, orden interior primero: estimado 2.84e+11 nodos
+    grupo 6, orden menos opciones: estimado 4.6e+12 nodos
+    grupo 6, orden interior primero: estimado 2.37e+11 nodos
+[1] Estimado de Knuth por grupo (nodos): 3.64e+11(i) 3.54e+11(i) 3.69e+11(i) 3.15e+11(i) 2.84e+11(i) 2.37e+11(i)   (i) = interior primero
+[2] Grupo 1/6: ruta unificada (mapas por lado), orden: interior primero
+    ... 5.7 s | grupo 1/6 | 2505078 nodos | revisado 9.2%, faltan ~20 s (Knuth: ~3 días) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 7.7 s | grupo 1/6 | 5005768 nodos | revisado 9.2%, faltan ~40 s (Knuth: ~3 días) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 9.7 s | grupo 1/6 | 7447300 nodos | revisado 9.2%, faltan ~60 s (Knuth: ~3 días) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 11.7 s | grupo 1/6 | 9933791 nodos | revisado 9.2%, faltan ~80 s (Knuth: ~3 días) | máximo colocado 52 de 64 | hilos 12 de 12
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 13 s
+RESULTADO resuelto=1 ms=12552.6 marcos=0 nodos=11014458 grupos=1/6 hilos=12 t_marcos=0.000 t_interior=8.906 lados=0 unificado=1 max_colocadas=64

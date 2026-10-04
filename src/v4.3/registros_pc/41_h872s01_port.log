@@ -1,0 +1,23 @@
+[0] Tablero 8x8, 9 colores, 12 hilos
+[1] Esquina fija (2,1). 6 grupos, orden por coste: 9.1e+24 9.1e+24 9.1e+24 9.1e+24 9.1e+24 9.1e+24
+    grupo 1, orden menos opciones: estimado 6.63e+15 nodos
+    grupo 1, orden interior primero: estimado 6.11e+13 nodos
+    grupo 2, orden menos opciones: estimado 2.42e+15 nodos
+    grupo 2, orden interior primero: estimado 4.4e+13 nodos
+    grupo 3, orden menos opciones: estimado 8.09e+15 nodos
+    grupo 3, orden interior primero: estimado 5e+13 nodos
+    grupo 4, orden menos opciones: estimado 1.11e+16 nodos
+    grupo 4, orden interior primero: estimado 9.11e+13 nodos
+    grupo 5, orden menos opciones: estimado 4.32e+15 nodos
+    grupo 5, orden interior primero: estimado 9.13e+13 nodos
+    grupo 6, orden menos opciones: estimado 2.52e+15 nodos
+    grupo 6, orden interior primero: estimado 6.22e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 6.11e+13(i) 4.4e+13(i) 5e+13(i) 9.11e+13(i) 9.13e+13(i) 6.22e+13(i)   (i) = interior primero
+[2] Grupo 1/6: ruta unificada (mapas por lado), orden: PORTAFOLIO (mitad de los hilos con cada orden)
+    ... 8.1 s | grupo 1/6 | 2660269 nodos | revisado 9.88e-06%, faltan ~235 días [menos opciones 1.77e-07%, interior primero 9.88e-06%] (Knuth: ~533 días) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 10.1 s | grupo 1/6 | 5314209 nodos | revisado 1.55e-05%, faltan ~299 días [menos opciones 3.19e-07%, interior primero 1.55e-05%] (Knuth: ~535 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 12.1 s | grupo 1/6 | 7944748 nodos | revisado 2.62e-05%, faltan ~266 días [menos opciones 5.07e-07%, interior primero 2.62e-05%] (Knuth: ~537 días) | máximo colocado 57 de 64 | hilos 12 de 12
+    portafolio: encontró la solución el equipo "interior primero" (nodos: menos opciones 5098496, interior primero 5195010)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 14 s
+RESULTADO resuelto=1 ms=13897.4 marcos=0 nodos=10293506 grupos=1/6 hilos=12 t_marcos=0.000 t_interior=7.826 lados=0 unificado=1 max_colocadas=64

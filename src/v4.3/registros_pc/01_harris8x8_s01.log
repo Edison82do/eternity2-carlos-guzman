@@ -1,0 +1,31 @@
+[0] Tablero 8x8, 9 colores, 12 hilos
+[1] Esquina fija (2,1). 6 grupos, orden por coste: 9.1e+24 9.1e+24 9.1e+24 9.1e+24 9.1e+24 9.1e+24
+[2] Grupo 1/6: ruta unificada (mapas por lado)
+[3] Grupo 1/6: estimado de Knuth ~6.52e+15 nodos (35760 sondeos, 3.0 s)
+    ... 5.0 s | grupo 1/6 | 2728770 nodos | revisado 2.56e-07%, faltan ~24.8 años (Knuth: ~152 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 7.0 s | grupo 1/6 | 5234784 nodos | revisado 4.58e-07%, faltan ~27.8 años (Knuth: ~159 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 9.0 s | grupo 1/6 | 7781488 nodos | revisado 6.67e-07%, faltan ~28.6 años (Knuth: ~160 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 11.1 s | grupo 1/6 | 10375566 nodos | revisado 9.54e-07%, faltan ~26.7 años (Knuth: ~160 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 13.1 s | grupo 1/6 | 13009622 nodos | revisado 1.17e-06%, faltan ~27.2 años (Knuth: ~160 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 15.1 s | grupo 1/6 | 15655427 nodos | revisado 1.37e-06%, faltan ~28 años (Knuth: ~159 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 17.1 s | grupo 1/6 | 18184539 nodos | revisado 1.71e-06%, faltan ~26.1 años (Knuth: ~160 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 19.1 s | grupo 1/6 | 20720341 nodos | revisado 2.00e-06%, faltan ~25.5 años (Knuth: ~160 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 21.1 s | grupo 1/6 | 23383067 nodos | revisado 2.20e-06%, faltan ~26 años (Knuth: ~160 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 23.1 s | grupo 1/6 | 25863699 nodos | revisado 2.37e-06%, faltan ~26.9 años (Knuth: ~161 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 25.1 s | grupo 1/6 | 28450362 nodos | revisado 3.35e-06%, faltan ~20.9 años (Knuth: ~161 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 27.1 s | grupo 1/6 | 31102653 nodos | revisado 3.89e-06%, faltan ~19.6 años (Knuth: ~160 años) | máximo colocado 52 de 64 | hilos 12 de 12
+    ... 29.1 s | grupo 1/6 | 33750894 nodos | revisado 4.01e-06%, faltan ~20.6 años (Knuth: ~160 años) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 31.1 s | grupo 1/6 | 36417565 nodos | revisado 4.17e-06%, faltan ~21.4 años (Knuth: ~160 años) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 33.1 s | grupo 1/6 | 39074493 nodos | revisado 4.33e-06%, faltan ~22 años (Knuth: ~159 años) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 35.1 s | grupo 1/6 | 41690221 nodos | revisado 4.48e-06%, faltan ~22.7 años (Knuth: ~159 años) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 37.2 s | grupo 1/6 | 44316546 nodos | revisado 4.66e-06%, faltan ~23.2 años (Knuth: ~159 años) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 39.2 s | grupo 1/6 | 46913143 nodos | revisado 4.87e-06%, faltan ~23.5 años (Knuth: ~159 años) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 41.2 s | grupo 1/6 | 49544381 nodos | revisado 5.04e-06%, faltan ~24 años (Knuth: ~159 años) | máximo colocado 57 de 64 | hilos 12 de 12
+    ... 43.2 s | grupo 1/6 | 52168198 nodos | revisado 5.17e-06%, faltan ~24.6 años (Knuth: ~159 años) | máximo colocado 57 de 64 | hilos 12 de 12
+    ... 45.2 s | grupo 1/6 | 54853824 nodos | revisado 5.28e-06%, faltan ~25.3 años (Knuth: ~159 años) | máximo colocado 57 de 64 | hilos 12 de 12
+    ... 47.2 s | grupo 1/6 | 57553598 nodos | revisado 5.43e-06%, faltan ~25.8 años (Knuth: ~159 años) | máximo colocado 57 de 64 | hilos 12 de 12
+    ... 49.2 s | grupo 1/6 | 60206396 nodos | revisado 5.64e-06%, faltan ~26 años (Knuth: ~159 años) | máximo colocado 57 de 64 | hilos 12 de 12
+    ... 51.2 s | grupo 1/6 | 62852456 nodos | revisado 5.86e-06%, faltan ~26.1 años (Knuth: ~159 años) | máximo colocado 57 de 64 | hilos 12 de 12
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 52 s
+RESULTADO resuelto=1 ms=51570.8 marcos=0 nodos=63263620 grupos=1/6 hilos=12 t_marcos=0.000 t_interior=51.570 lados=0 unificado=1 max_colocadas=64

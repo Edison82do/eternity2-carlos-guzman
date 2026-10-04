@@ -1,0 +1,33 @@
+[0] Tablero 11x11, 16 colores, 12 hilos
+[1] Esquina fija (6,24). 6 grupos, orden por coste: 9.58e+16 9.6e+16 9.6e+16 9.6e+16 9.61e+16 9.61e+16
+    grupo 1, orden menos opciones: estimado 2.56e+06 nodos
+    grupo 1, orden interior primero: estimado 1.55e+06 nodos
+    grupo 2, orden menos opciones: estimado 1.8e+06 nodos
+    grupo 2, orden interior primero: estimado 1.32e+06 nodos
+    grupo 3, orden menos opciones: estimado 2.88e+06 nodos
+    grupo 3, orden interior primero: estimado 1.79e+06 nodos
+    grupo 4, orden menos opciones: estimado 4.98e+06 nodos
+    grupo 4, orden interior primero: estimado 1.7e+06 nodos
+    grupo 5, orden menos opciones: estimado 2.37e+06 nodos
+    grupo 5, orden interior primero: estimado 4.18e+06 nodos
+    grupo 6, orden menos opciones: estimado 4.95e+06 nodos
+    grupo 6, orden interior primero: estimado 2e+06 nodos
+[1] Estimado de Knuth por grupo (nodos): 2.56e+06 1.8e+06 2.88e+06 4.98e+06 2.37e+06 4.95e+06   (i) = interior primero
+[2] Grupo 1/6: ruta unificada (mapas por lado), orden: casilla con menos opciones
+    ... 5.7 s | grupo 1/6 | 527998 nodos | revisado 46.7%, faltan ~2 s (Knuth: ~8 s) | máximo colocado 55 de 121 | hilos 12 de 12
+    ... 7.7 s | grupo 1/6 | 1064185 nodos | revisado 89.8%, faltan ~0 s (Knuth: ~6 s) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 9.7 s | grupo 1/6 | 1591146 nodos | revisado 98.7%, faltan ~0 s (Knuth: ~4 s) | máximo colocado 58 de 121 | hilos 12 de 12
+[4] Grupo 1: sin solución
+[2] Grupo 2/6: ruta unificada (mapas por lado), orden: casilla con menos opciones
+    ... 13.1 s | grupo 2/6 | 523200 nodos | revisado 37.2%, faltan ~3 s (Knuth: ~5 s) | máximo colocado 55 de 121 | hilos 12 de 12
+    ... 15.1 s | grupo 2/6 | 1046839 nodos | revisado 61.2%, faltan ~3 s (Knuth: ~3 s) | máximo colocado 56 de 121 | hilos 12 de 12
+    ... 17.1 s | grupo 2/6 | 1575317 nodos | revisado 80.5%, faltan ~1 s (Knuth: ~1 s) | máximo colocado 57 de 121 | hilos 12 de 12
+    ... 19.1 s | grupo 2/6 | 2095208 nodos | revisado 94.1%, faltan ~1 s (Knuth: ~pasó el estimado) | máximo colocado 59 de 121 | hilos 12 de 12
+[4] Grupo 2: sin solución
+[2] Grupo 3/6: ruta unificada (mapas por lado), orden: casilla con menos opciones
+    ... 23.0 s | grupo 3/6 | 530446 nodos | revisado 37.4%, faltan ~3 s (Knuth: ~9 s) | máximo colocado 57 de 121 | hilos 12 de 12
+    ... 25.0 s | grupo 3/6 | 1070111 nodos | revisado 52.1%, faltan ~4 s (Knuth: ~7 s) | máximo colocado 57 de 121 | hilos 12 de 12
+    ... 27.1 s | grupo 3/6 | 1607576 nodos | revisado 80.8%, faltan ~1 s (Knuth: ~5 s) | máximo colocado 60 de 121 | hilos 12 de 12
+[4] Grupo 3: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 27 s
+RESULTADO resuelto=1 ms=27175.6 marcos=0 nodos=6154601 grupos=3/6 hilos=12 t_marcos=0.000 t_interior=23.485 lados=0 unificado=1 max_colocadas=121

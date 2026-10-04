@@ -1,0 +1,10 @@
+[0] Tablero 10x10, 13 colores, 12 hilos
+[1] Esquina fija (3,2). 3 grupos, orden por coste: 1.59e+31 1.59e+31 1.59e+31
+    grupo 1, orden menos opciones: estimado 3.41e+21 nodos
+    grupo 1, orden interior primero: estimado 6.46e+18 nodos
+    grupo 2, orden menos opciones: estimado 5.42e+20 nodos
+    grupo 2, orden interior primero: estimado 8.52e+18 nodos
+    grupo 3, orden menos opciones: estimado 1.24e+21 nodos
+    grupo 3, orden interior primero: estimado 1.28e+19 nodos
+[1] Grupos ordenados por estimado de Knuth (nodos): 6.46e+18(i) 8.52e+18(i) 1.28e+19(i)   (i) = interior primero
+ESTIMADO total=2.775e+19 grupos=3 ms=10110.4

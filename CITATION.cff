@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Frames, Signatures and Joints: an experimental study of exact, stochastic and GPU solvers for Eternity II-type edge-matching puzzles"
+authors:
+  - family-names: "Guzman Marte"
+    given-names: "Carlos Edison"
+    affiliation: "Independent researcher, Calgary, Alberta, Canada"
+date-released: "2026-10-03"
+version: "6.0"
+license: MIT
+keywords:
+  - Eternity II
+  - edge-matching puzzle
+  - backtracking
+  - constraint propagation
+  - belief propagation
+  - simulated annealing
+  - GPU
+abstract: "Exact (frames and signatures), stochastic (joints system) and GPU solvers for Eternity II-type edge-matching puzzles, with all measurements, negative results and OpenTimestamps proofs of each version. Developed with AI assistance (Anthropic's Claude) under the author's direction."

@@ -1,0 +1,9 @@
+[0] Tablero 9x9, 12 colores, 12 hilos
+[1] Esquinas juntas: las esquinas son parte de la búsqueda; un solo recorrido para todos los grupos
+    grupo 1, orden menos opciones: estimado 9.76e+08 nodos
+    grupo 1, orden interior primero: estimado 6.27e+04 nodos
+[1] Estimado de Knuth por grupo (nodos): 6.27e+04(i)   (i) = interior primero
+[2] Grupo 1/1: ruta unificada (mapas por lado, con piezas fijas), orden: interior primero
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 3 s
+RESULTADO resuelto=1 ms=3054.0 marcos=0 nodos=12504 grupos=1/1 hilos=12 t_marcos=0.000 t_interior=0.041 lados=0 unificado=1 max_colocadas=81

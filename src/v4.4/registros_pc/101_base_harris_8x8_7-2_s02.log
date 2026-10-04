@@ -1,0 +1,14 @@
+[0] Tablero 8x8, 9 colores, 12 hilos
+[1] Esquina fija (2,1). 3 grupos, orden por coste: 2e+25 2e+25 2e+25
+    grupo 1, orden menos opciones: estimado 1.01e+16 nodos
+    grupo 1, orden interior primero: estimado 1.26e+14 nodos
+    grupo 2, orden menos opciones: estimado 1.78e+16 nodos
+    grupo 2, orden interior primero: estimado 1.03e+14 nodos
+    grupo 3, orden menos opciones: estimado 1.92e+16 nodos
+    grupo 3, orden interior primero: estimado 1.25e+14 nodos
+[1] Estimado de Knuth por grupo (nodos): 1.26e+14(i) 1.03e+14(i) 1.25e+14(i)   (i) = interior primero
+[2] Grupo 1/3: ruta unificada (mapas por lado), orden: interior primero
+    ... 5.0 s | grupo 1/3 | 2384671 nodos | revisado 3.6%, faltan ~54 s (Knuth: ~3.37 años) | máximo colocado 50 de 64 | hilos 12 de 12
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 7 s
+RESULTADO resuelto=1 ms=6841.5 marcos=0 nodos=4515923 grupos=1/3 hilos=12 t_marcos=0.000 t_interior=3.817 lados=0 unificado=1 max_colocadas=64

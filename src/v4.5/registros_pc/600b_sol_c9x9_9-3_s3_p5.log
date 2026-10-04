@@ -1,0 +1,39 @@
+[0] Tablero 9x9, 12 colores, 12 hilos
+[1] Con piezas fijas: las 4 esquinas se prueban arriba a la izquierda. 12 grupos, orden por coste: 1.19e+26 1.19e+26 1.19e+26 1.19e+26 1.19e+26 1.19e+26 1.19e+26 1.19e+26 1.19e+26 1.19e+26 1.19e+26 1.19e+26
+    grupo 1, orden menos opciones: estimado 1.79e+08 nodos
+    grupo 1, orden interior primero: estimado 5.44e+04 nodos
+    grupo 2, orden menos opciones: estimado 1.6e+07 nodos
+    grupo 2, orden interior primero: estimado 5.09e+04 nodos
+    grupo 3, orden menos opciones: estimado 6.91e+07 nodos
+    grupo 3, orden interior primero: estimado 8.79e+04 nodos
+    grupo 4, orden menos opciones: estimado 8.67e+07 nodos
+    grupo 4, orden interior primero: estimado 5.51e+04 nodos
+    grupo 5, orden menos opciones: estimado 1.05e+08 nodos
+    grupo 5, orden interior primero: estimado 9.05e+04 nodos
+    grupo 6, orden menos opciones: estimado 3.89e+07 nodos
+    grupo 6, orden interior primero: estimado 4.82e+04 nodos
+    grupo 7, orden menos opciones: estimado 1.22e+08 nodos
+    grupo 7, orden interior primero: estimado 6.06e+04 nodos
+    grupo 8, orden menos opciones: estimado 5.09e+07 nodos
+    grupo 8, orden interior primero: estimado 6.91e+04 nodos
+    grupo 9, orden menos opciones: estimado 3.01e+07 nodos
+    grupo 9, orden interior primero: estimado 6.47e+04 nodos
+    grupo 10, orden menos opciones: estimado 5.52e+07 nodos
+    grupo 10, orden interior primero: estimado 5.9e+04 nodos
+    grupo 11, orden menos opciones: estimado 4.87e+07 nodos
+    grupo 11, orden interior primero: estimado 5.82e+04 nodos
+    grupo 12, orden menos opciones: estimado 5.17e+07 nodos
+    grupo 12, orden interior primero: estimado 4.33e+04 nodos
+[1] Estimado de Knuth por grupo (nodos): 5.44e+04(i) 5.09e+04(i) 8.79e+04(i) 5.51e+04(i) 9.05e+04(i) 4.82e+04(i) 6.06e+04(i) 6.91e+04(i) 6.47e+04(i) 5.9e+04(i) 5.82e+04(i) 4.33e+04(i)   (i) = interior primero
+[2] Grupo 1/12: ruta unificada (mapas por lado, con piezas fijas), orden: interior primero
+[4] Grupo 1: sin solución
+[2] Grupo 2/12: ruta unificada (mapas por lado, con piezas fijas), orden: interior primero
+[4] Grupo 2: sin solución
+[2] Grupo 3/12: ruta unificada (mapas por lado, con piezas fijas), orden: interior primero
+[4] Grupo 3: sin solución
+[2] Grupo 4/12: ruta unificada (mapas por lado, con piezas fijas), orden: interior primero
+[4] Grupo 4: sin solución
+[2] Grupo 5/12: ruta unificada (mapas por lado, con piezas fijas), orden: interior primero
+[4] Grupo 5: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 8 s
+RESULTADO resuelto=1 ms=7929.5 marcos=0 nodos=256682 grupos=5/12 hilos=12 t_marcos=0.000 t_interior=0.492 lados=0 unificado=1 max_colocadas=81

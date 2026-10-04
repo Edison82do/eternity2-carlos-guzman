@@ -1,0 +1,6 @@
+[0] Tablero 9x9, 12 colores, 12 hilos
+[1] Esquinas juntas: las esquinas son parte de la búsqueda; un solo recorrido para todos los grupos
+    grupo 1, orden menos opciones: estimado 7.5e+15 nodos
+    grupo 1, orden interior primero: estimado 4.64e+13 nodos
+[1] Grupos ordenados por estimado de Knuth (nodos): 4.64e+13(i)   (i) = interior primero
+ESTIMADO total=4.644e+13 grupos=1 ms=10014.7

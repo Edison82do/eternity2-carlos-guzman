@@ -1,0 +1,21 @@
+[0] Tablero 8x8, 11 colores, 12 hilos
+[1] Esquina fija (2,2). 6 grupos, orden por coste: 3.98e+19 3.98e+19 3.98e+19 3.98e+19 3.98e+19 3.98e+19
+    grupo 1, orden menos opciones: estimado 4.51e+13 nodos
+    grupo 1, orden interior primero: estimado 1.26e+13 nodos
+    grupo 2, orden menos opciones: estimado 5.1e+13 nodos
+    grupo 2, orden interior primero: estimado 1.72e+13 nodos
+    grupo 3, orden menos opciones: estimado 1.9e+13 nodos
+    grupo 3, orden interior primero: estimado 1.75e+13 nodos
+    grupo 4, orden menos opciones: estimado 4.8e+13 nodos
+    grupo 4, orden interior primero: estimado 9.81e+12 nodos
+    grupo 5, orden menos opciones: estimado 2.4e+13 nodos
+    grupo 5, orden interior primero: estimado 3.12e+13 nodos
+    grupo 6, orden menos opciones: estimado 2.82e+13 nodos
+    grupo 6, orden interior primero: estimado 2.01e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 1.26e+13(i) 5.1e+13 1.9e+13 9.81e+12(i) 2.4e+13 2.82e+13   (i) = interior primero
+[2] Grupo 1/6: ruta unificada (mapas por lado), orden: interior primero; grupo grande: 3 estrategias a la vez (normal, pieza menos restrictiva, reinicios)
+    ... 5.7 s | grupo 1/6 | 2043269 nodos | revisado 7.54e-06%, faltan ~308 días [interior primero 7.54e-06%, interior primero + pieza menos restrictiva 3.14e-08%, reinicios, interior primero 1.50e-04%] (Knuth: ~143 días) | máximo colocado 51 de 64 | hilos 8 de 12
+    portafolio: encontró la solución el equipo "reinicios, interior primero" (nodos: interior primero 1550336, interior primero + pieza menos restrictiva 1132544, reinicios, interior primero 1448868)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 8 s
+RESULTADO resuelto=1 ms=7643.0 marcos=0 nodos=4131748 grupos=1/6 hilos=12 t_marcos=0.000 t_interior=3.974 lados=0 unificado=1 max_colocadas=64

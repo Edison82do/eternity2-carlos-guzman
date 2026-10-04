@@ -1,0 +1,39 @@
+[0] Tablero 8x8, 10 colores, 12 hilos
+[1] Esquina fija (3,1). 6 grupos, orden por coste: 2.96e+20 2.96e+20 2.96e+20 2.96e+20 2.96e+20 2.96e+20
+    grupo 1, orden menos opciones: estimado 4.67e+14 nodos
+    grupo 1, orden interior primero: estimado 9.71e+13 nodos
+    grupo 2, orden menos opciones: estimado 6.04e+14 nodos
+    grupo 2, orden interior primero: estimado 1.42e+14 nodos
+    grupo 3, orden menos opciones: estimado 3.84e+14 nodos
+    grupo 3, orden interior primero: estimado 1.19e+14 nodos
+    grupo 4, orden menos opciones: estimado 7.89e+14 nodos
+    grupo 4, orden interior primero: estimado 1.69e+14 nodos
+    grupo 5, orden menos opciones: estimado 5.02e+14 nodos
+    grupo 5, orden interior primero: estimado 9.47e+13 nodos
+    grupo 6, orden menos opciones: estimado 6.95e+14 nodos
+    grupo 6, orden interior primero: estimado 8.04e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 9.71e+13(i) 1.42e+14(i) 1.19e+14(i) 1.69e+14(i) 9.47e+13(i) 8.04e+13(i)   (i) = interior primero
+[2] Grupo 1/6: ruta unificada (mapas por lado), orden: interior primero
+    ... 5.7 s | grupo 1/6 | 2425095 nodos | revisado 0.694%, faltan ~5 min (Knuth: ~931 días) | máximo colocado 51 de 64 | hilos 12 de 12
+    ... 7.7 s | grupo 1/6 | 4849452 nodos | revisado 0.694%, faltan ~10 min (Knuth: ~932 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 9.7 s | grupo 1/6 | 7287757 nodos | revisado 0.694%, faltan ~14 min (Knuth: ~931 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 11.7 s | grupo 1/6 | 9690151 nodos | revisado 0.694%, faltan ~19 min (Knuth: ~933 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 13.7 s | grupo 1/6 | 12108077 nodos | revisado 0.695%, faltan ~24 min (Knuth: ~932 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 15.7 s | grupo 1/6 | 14506295 nodos | revisado 0.695%, faltan ~29 min (Knuth: ~934 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 17.7 s | grupo 1/6 | 16917209 nodos | revisado 0.695%, faltan ~33 min (Knuth: ~934 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 19.7 s | grupo 1/6 | 19297547 nodos | revisado 0.695%, faltan ~38 min (Knuth: ~935 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 21.7 s | grupo 1/6 | 21710359 nodos | revisado 0.695%, faltan ~43 min (Knuth: ~935 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 23.7 s | grupo 1/6 | 24119805 nodos | revisado 0.695%, faltan ~48 min (Knuth: ~935 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 25.7 s | grupo 1/6 | 26526257 nodos | revisado 0.695%, faltan ~53 min (Knuth: ~935 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 27.8 s | grupo 1/6 | 28936923 nodos | revisado 0.695%, faltan ~57 min (Knuth: ~936 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 29.8 s | grupo 1/6 | 31351753 nodos | revisado 0.695%, faltan ~62 min (Knuth: ~936 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 31.8 s | grupo 1/6 | 33756402 nodos | revisado 0.695%, faltan ~67 min (Knuth: ~936 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 33.8 s | grupo 1/6 | 36190530 nodos | revisado 0.695%, faltan ~72 min (Knuth: ~935 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 35.8 s | grupo 1/6 | 38558684 nodos | revisado 0.695%, faltan ~77 min (Knuth: ~936 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 37.8 s | grupo 1/6 | 40977030 nodos | revisado 0.695%, faltan ~81 min (Knuth: ~936 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 39.8 s | grupo 1/6 | 43390375 nodos | revisado 0.695%, faltan ~86 min (Knuth: ~936 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 41.8 s | grupo 1/6 | 45752778 nodos | revisado 0.695%, faltan ~91 min (Knuth: ~936 días) | máximo colocado 54 de 64 | hilos 12 de 12
+    ... 43.8 s | grupo 1/6 | 48119562 nodos | revisado 0.695%, faltan ~96 min (Knuth: ~938 días) | máximo colocado 54 de 64 | hilos 12 de 12
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 46 s
+RESULTADO resuelto=1 ms=45503.8 marcos=0 nodos=50124038 grupos=1/6 hilos=12 t_marcos=0.000 t_interior=41.849 lados=0 unificado=1 max_colocadas=64

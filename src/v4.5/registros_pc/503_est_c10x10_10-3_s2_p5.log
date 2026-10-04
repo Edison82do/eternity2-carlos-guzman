@@ -1,0 +1,16 @@
+[0] Tablero 10x10, 13 colores, 12 hilos
+[1] Con piezas fijas: las 4 esquinas se prueban arriba a la izquierda. 6 grupos, orden por coste: 1.59e+31 1.59e+31 1.59e+31 1.59e+31 1.59e+31 1.59e+31
+    grupo 1, orden menos opciones: estimado 2.43e+11 nodos
+    grupo 1, orden interior primero: estimado 1.46e+10 nodos
+    grupo 2, orden menos opciones: estimado 3.48e+10 nodos
+    grupo 2, orden interior primero: estimado 2e+10 nodos
+    grupo 3, orden menos opciones: estimado 6.11e+10 nodos
+    grupo 3, orden interior primero: estimado 1.35e+10 nodos
+    grupo 4, orden menos opciones: estimado 5.86e+11 nodos
+    grupo 4, orden interior primero: estimado 1.33e+10 nodos
+    grupo 5, orden menos opciones: estimado 3.38e+11 nodos
+    grupo 5, orden interior primero: estimado 1.03e+10 nodos
+    grupo 6, orden menos opciones: estimado 4.27e+11 nodos
+    grupo 6, orden interior primero: estimado 5.51e+09 nodos
+[1] Grupos ordenados por estimado de Knuth (nodos): 5.51e+09(i) 1.03e+10(i) 1.33e+10(i) 1.35e+10(i) 1.46e+10(i) 3.48e+10   (i) = interior primero
+ESTIMADO total=9.203e+10 grupos=6 ms=10142.3

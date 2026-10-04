@@ -1,0 +1,28 @@
+[0] Tablero 9x9, 12 colores, 12 hilos
+[1] Con piezas fijas: las 4 esquinas se prueban arriba a la izquierda. 12 grupos, orden por coste: 2.23e+25 2.23e+25 2.23e+25 2.23e+25 2.23e+25 2.23e+25 2.23e+25 2.23e+25 2.23e+25 2.23e+25 2.23e+25 2.23e+25
+    grupo 1, orden menos opciones: estimado 1.27e+16 nodos
+    grupo 1, orden interior primero: estimado 4.09e+14 nodos
+    grupo 2, orden menos opciones: estimado 2.58e+16 nodos
+    grupo 2, orden interior primero: estimado 2.45e+14 nodos
+    grupo 3, orden menos opciones: estimado 1.18e+16 nodos
+    grupo 3, orden interior primero: estimado 3.12e+14 nodos
+    grupo 4, orden menos opciones: estimado 2.56e+16 nodos
+    grupo 4, orden interior primero: estimado 2.64e+14 nodos
+    grupo 5, orden menos opciones: estimado 9.38e+15 nodos
+    grupo 5, orden interior primero: estimado 2.34e+14 nodos
+    grupo 6, orden menos opciones: estimado 8.06e+15 nodos
+    grupo 6, orden interior primero: estimado 2.39e+14 nodos
+    grupo 7, orden menos opciones: estimado 5.27e+16 nodos
+    grupo 7, orden interior primero: estimado 1.46e+14 nodos
+    grupo 8, orden menos opciones: estimado 1.11e+16 nodos
+    grupo 8, orden interior primero: estimado 1.71e+14 nodos
+    grupo 9, orden menos opciones: estimado 6.22e+15 nodos
+    grupo 9, orden interior primero: estimado 2.05e+14 nodos
+    grupo 10, orden menos opciones: estimado 1.7e+16 nodos
+    grupo 10, orden interior primero: estimado 1.68e+14 nodos
+    grupo 11, orden menos opciones: estimado 1.02e+16 nodos
+    grupo 11, orden interior primero: estimado 2.01e+14 nodos
+    grupo 12, orden menos opciones: estimado 4.57e+15 nodos
+    grupo 12, orden interior primero: estimado 1.75e+14 nodos
+[1] Grupos ordenados por estimado de Knuth (nodos): 1.46e+14(i) 1.68e+14(i) 1.71e+14(i) 1.75e+14(i) 2.01e+14(i) 2.05e+14(i) 2.34e+14(i) 2.39e+14(i) 2.45e+14(i) 2.64e+14(i) 3.12e+14(i) 4.09e+14(i)   (i) = interior primero
+ESTIMADO total=2.77e+15 grupos=12 ms=10129.9

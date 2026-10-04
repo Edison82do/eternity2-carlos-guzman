@@ -1,0 +1,47 @@
+[0] Tablero 8x8, 9 colores, 12 hilos
+[1] Esquina fija (2,1). 3 grupos, orden por coste: 7.86e+24 7.86e+24 7.86e+24
+    grupo 1, orden menos opciones: estimado 4.93e+14 nodos
+    grupo 1, orden interior primero: estimado 2.48e+13 nodos
+    grupo 2, orden menos opciones: estimado 4.95e+14 nodos
+    grupo 2, orden interior primero: estimado 3.78e+13 nodos
+    grupo 3, orden menos opciones: estimado 1.22e+15 nodos
+    grupo 3, orden interior primero: estimado 2.01e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 2.48e+13(i) 3.78e+13(i) 2.01e+13(i)   (i) = interior primero
+[2] Grupo 1/3: ruta unificada (mapas por lado), orden: PORTAFOLIO (mitad de los hilos con cada orden)
+    ... 5.0 s | grupo 1/3 | 2482504 nodos | revisado 5.24e-06%, faltan ~442 días [interior primero 5.24e-06%, reinicios, interior primero 1.12e-05%, reinicios, menos opciones 5.06e-06%] (Knuth: ~232 días) | máximo colocado 52 de 64 | hilos 4 de 12
+    ... 7.0 s | grupo 1/3 | 4987974 nodos | revisado 8.50e-06%, faltan ~546 días [interior primero 8.50e-06%, reinicios, interior primero 2.07e-05%, reinicios, menos opciones 9.39e-06%] (Knuth: ~231 días) | máximo colocado 54 de 64 | hilos 4 de 12
+    ... 9.1 s | grupo 1/3 | 7510210 nodos | revisado 1.21e-05%, faltan ~577 días [interior primero 1.21e-05%, reinicios, interior primero 2.48e-05%, reinicios, menos opciones 1.40e-05%] (Knuth: ~230 días) | máximo colocado 54 de 64 | hilos 4 de 12
+    ... 11.1 s | grupo 1/3 | 10008078 nodos | revisado 1.36e-05%, faltan ~683 días [interior primero 1.36e-05%, reinicios, interior primero 3.79e-05%, reinicios, menos opciones 2.62e-05%] (Knuth: ~230 días) | máximo colocado 54 de 64 | hilos 4 de 12
+    ... 13.1 s | grupo 1/3 | 12512920 nodos | revisado 1.71e-05%, faltan ~679 días [interior primero 1.71e-05%, reinicios, interior primero 5.41e-05%, reinicios, menos opciones 3.20e-05%] (Knuth: ~230 días) | máximo colocado 54 de 64 | hilos 4 de 12
+    ... 15.1 s | grupo 1/3 | 15041676 nodos | revisado 1.86e-05%, faltan ~750 días [interior primero 1.86e-05%, reinicios, interior primero 8.37e-05%, reinicios, menos opciones 3.81e-05%] (Knuth: ~230 días) | máximo colocado 54 de 64 | hilos 4 de 12
+    ... 17.1 s | grupo 1/3 | 17585290 nodos | revisado 2.10e-05%, faltan ~776 días [interior primero 2.10e-05%, reinicios, interior primero 8.58e-05%, reinicios, menos opciones 4.69e-05%] (Knuth: ~230 días) | máximo colocado 57 de 64 | hilos 4 de 12
+    ... 19.1 s | grupo 1/3 | 20082018 nodos | revisado 2.28e-05%, faltan ~815 días [interior primero 2.28e-05%, reinicios, interior primero 9.46e-05%, reinicios, menos opciones 5.41e-05%] (Knuth: ~230 días) | máximo colocado 57 de 64 | hilos 4 de 12
+    ... 21.1 s | grupo 1/3 | 22597281 nodos | revisado 2.45e-05%, faltan ~855 días [interior primero 2.45e-05%, reinicios, interior primero 9.79e-05%, reinicios, menos opciones 5.62e-05%] (Knuth: ~230 días) | máximo colocado 57 de 64 | hilos 4 de 12
+    ... 23.1 s | grupo 1/3 | 25085477 nodos | revisado 2.70e-05%, faltan ~861 días [interior primero 2.70e-05%, reinicios, interior primero 1.04e-04%, reinicios, menos opciones 6.12e-05%] (Knuth: ~230 días) | máximo colocado 57 de 64 | hilos 4 de 12
+    ... 25.1 s | grupo 1/3 | 27603931 nodos | revisado 2.85e-05%, faltan ~898 días [interior primero 2.85e-05%, reinicios, interior primero 1.18e-04%, reinicios, menos opciones 6.52e-05%] (Knuth: ~230 días) | máximo colocado 57 de 64 | hilos 4 de 12
+    ... 27.1 s | grupo 1/3 | 30127043 nodos | revisado 3.09e-05%, faltan ~904 días [interior primero 3.09e-05%, reinicios, interior primero 1.27e-04%, reinicios, menos opciones 7.62e-05%] (Knuth: ~230 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 29.1 s | grupo 1/3 | 32619691 nodos | revisado 3.25e-05%, faltan ~930 días [interior primero 3.25e-05%, reinicios, interior primero 1.49e-04%, reinicios, menos opciones 7.97e-05%] (Knuth: ~230 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 31.1 s | grupo 1/3 | 35170506 nodos | revisado 3.45e-05%, faltan ~942 días [interior primero 3.45e-05%, reinicios, interior primero 1.55e-04%, reinicios, menos opciones 9.09e-05%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 33.1 s | grupo 1/3 | 37708812 nodos | revisado 4.01e-05%, faltan ~870 días [interior primero 4.01e-05%, reinicios, interior primero 1.79e-04%, reinicios, menos opciones 9.55e-05%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 35.2 s | grupo 1/3 | 40277028 nodos | revisado 4.23e-05%, faltan ~878 días [interior primero 4.23e-05%, reinicios, interior primero 1.89e-04%, reinicios, menos opciones 9.94e-05%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 37.2 s | grupo 1/3 | 42789133 nodos | revisado 4.53e-05%, faltan ~873 días [interior primero 4.53e-05%, reinicios, interior primero 1.93e-04%, reinicios, menos opciones 1.02e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 39.2 s | grupo 1/3 | 45304148 nodos | revisado 4.74e-05%, faltan ~883 días [interior primero 4.74e-05%, reinicios, interior primero 2.00e-04%, reinicios, menos opciones 1.06e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 41.2 s | grupo 1/3 | 47793130 nodos | revisado 4.96e-05%, faltan ~890 días [interior primero 4.96e-05%, reinicios, interior primero 2.28e-04%, reinicios, menos opciones 1.35e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 43.2 s | grupo 1/3 | 50285558 nodos | revisado 5.02e-05%, faltan ~926 días [interior primero 5.02e-05%, reinicios, interior primero 2.42e-04%, reinicios, menos opciones 1.82e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 45.2 s | grupo 1/3 | 52784550 nodos | revisado 5.15e-05%, faltan ~948 días [interior primero 5.15e-05%, reinicios, interior primero 2.59e-04%, reinicios, menos opciones 1.87e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 47.2 s | grupo 1/3 | 55285178 nodos | revisado 5.24e-05%, faltan ~976 días [interior primero 5.24e-05%, reinicios, interior primero 2.77e-04%, reinicios, menos opciones 1.89e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 49.2 s | grupo 1/3 | 57771684 nodos | revisado 5.43e-05%, faltan ~984 días [interior primero 5.43e-05%, reinicios, interior primero 2.92e-04%, reinicios, menos opciones 1.91e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 51.2 s | grupo 1/3 | 60287878 nodos | revisado 5.62e-05%, faltan ~992 días [interior primero 5.62e-05%, reinicios, interior primero 2.96e-04%, reinicios, menos opciones 1.97e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 53.2 s | grupo 1/3 | 62787415 nodos | revisado 6.50e-05%, faltan ~894 días [interior primero 6.50e-05%, reinicios, interior primero 4.90e-04%, reinicios, menos opciones 1.99e-04%] (Knuth: ~230 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 55.2 s | grupo 1/3 | 65302835 nodos | revisado 7.08e-05%, faltan ~854 días [interior primero 7.08e-05%, reinicios, interior primero 4.95e-04%, reinicios, menos opciones 2.03e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 57.2 s | grupo 1/3 | 67844945 nodos | revisado 7.59e-05%, faltan ~827 días [interior primero 7.59e-05%, reinicios, interior primero 4.97e-04%, reinicios, menos opciones 2.07e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 59.2 s | grupo 1/3 | 70392384 nodos | revisado 7.92e-05%, faltan ~822 días [interior primero 7.92e-05%, reinicios, interior primero 6.15e-04%, reinicios, menos opciones 2.18e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 61.3 s | grupo 1/3 | 72905607 nodos | revisado 8.13e-05%, faltan ~829 días [interior primero 8.13e-05%, reinicios, interior primero 6.24e-04%, reinicios, menos opciones 2.28e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 63.3 s | grupo 1/3 | 75377082 nodos | revisado 8.38e-05%, faltan ~832 días [interior primero 8.38e-05%, reinicios, interior primero 6.32e-04%, reinicios, menos opciones 2.35e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 65.3 s | grupo 1/3 | 77881849 nodos | revisado 8.63e-05%, faltan ~834 días [interior primero 8.63e-05%, reinicios, interior primero 6.38e-04%, reinicios, menos opciones 2.37e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 67.3 s | grupo 1/3 | 80380414 nodos | revisado 9.01e-05%, faltan ~826 días [interior primero 9.01e-05%, reinicios, interior primero 6.41e-04%, reinicios, menos opciones 2.44e-04%] (Knuth: ~229 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    ... 69.3 s | grupo 1/3 | 82868242 nodos | revisado 9.36e-05%, faltan ~819 días [interior primero 9.36e-05%, reinicios, interior primero 6.50e-04%, reinicios, menos opciones 2.47e-04%] (Knuth: ~230 días) | máximo colocado 59 de 64 | hilos 4 de 12
+    portafolio: encontró la solución el equipo "interior primero" (nodos: interior primero 25520557, reinicios, interior primero 29105152, reinicios, menos opciones 29130752)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 70 s
+RESULTADO resuelto=1 ms=70013.7 marcos=0 nodos=83756461 grupos=1/3 hilos=12 t_marcos=0.000 t_interior=66.987 lados=0 unificado=1 max_colocadas=64

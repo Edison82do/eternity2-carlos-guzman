@@ -1,0 +1,24 @@
+[0] Tablero 9x9, 12 colores, 12 hilos
+[1] Esquinas juntas: las esquinas son parte de la búsqueda; un solo recorrido para todos los grupos
+    grupo 1, orden menos opciones: estimado 1.01e+10 nodos
+    grupo 1, orden interior primero: estimado 9.29e+07 nodos
+[1] Estimado de Knuth por grupo (nodos): 9.29e+07(i)   (i) = interior primero
+[2] Grupo 1/1: ruta unificada (mapas por lado, con piezas fijas), orden: interior primero
+    ... 5.0 s | grupo 1/1 | 2969604 nodos | revisado 7.3%, faltan ~26 s (Knuth: ~61 s) | máximo colocado 56 de 81 | hilos 12 de 12
+    ... 7.0 s | grupo 1/1 | 5938341 nodos | revisado 13.1%, faltan ~27 s (Knuth: ~59 s) | máximo colocado 56 de 81 | hilos 12 de 12
+    ... 9.0 s | grupo 1/1 | 8946996 nodos | revisado 19.0%, faltan ~26 s (Knuth: ~56 s) | máximo colocado 58 de 81 | hilos 12 de 12
+    ... 11.0 s | grupo 1/1 | 11949232 nodos | revisado 24.0%, faltan ~25 s (Knuth: ~54 s) | máximo colocado 58 de 81 | hilos 12 de 12
+    ... 13.0 s | grupo 1/1 | 14874732 nodos | revisado 28.4%, faltan ~25 s (Knuth: ~53 s) | máximo colocado 58 de 81 | hilos 12 de 12
+    ... 15.0 s | grupo 1/1 | 17852203 nodos | revisado 35.1%, faltan ~22 s (Knuth: ~51 s) | máximo colocado 58 de 81 | hilos 12 de 12
+    ... 17.0 s | grupo 1/1 | 20852161 nodos | revisado 42.9%, faltan ~19 s (Knuth: ~48 s) | máximo colocado 58 de 81 | hilos 12 de 12
+    ... 19.1 s | grupo 1/1 | 23866324 nodos | revisado 48.2%, faltan ~17 s (Knuth: ~46 s) | máximo colocado 59 de 81 | hilos 12 de 12
+    ... 21.1 s | grupo 1/1 | 26837301 nodos | revisado 51.6%, faltan ~17 s (Knuth: ~44 s) | máximo colocado 59 de 81 | hilos 12 de 12
+    ... 23.1 s | grupo 1/1 | 29809318 nodos | revisado 56.9%, faltan ~15 s (Knuth: ~43 s) | máximo colocado 59 de 81 | hilos 12 de 12
+    ... 25.1 s | grupo 1/1 | 32802477 nodos | revisado 59.6%, faltan ~15 s (Knuth: ~40 s) | máximo colocado 59 de 81 | hilos 12 de 12
+    ... 27.1 s | grupo 1/1 | 35811503 nodos | revisado 64.2%, faltan ~13 s (Knuth: ~38 s) | máximo colocado 59 de 81 | hilos 12 de 12
+    ... 29.1 s | grupo 1/1 | 38817805 nodos | revisado 69.2%, faltan ~12 s (Knuth: ~36 s) | máximo colocado 59 de 81 | hilos 12 de 12
+    ... 31.2 s | grupo 1/1 | 41869424 nodos | revisado 73.2%, faltan ~10 s (Knuth: ~34 s) | máximo colocado 59 de 81 | hilos 12 de 12
+    ... 33.2 s | grupo 1/1 | 44888421 nodos | revisado 76.2%, faltan ~9 s (Knuth: ~32 s) | máximo colocado 59 de 81 | hilos 12 de 12
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 33 s
+RESULTADO resuelto=1 ms=33359.9 marcos=0 nodos=45183614 grupos=1/1 hilos=12 t_marcos=0.000 t_interior=30.350 lados=0 unificado=1 max_colocadas=81

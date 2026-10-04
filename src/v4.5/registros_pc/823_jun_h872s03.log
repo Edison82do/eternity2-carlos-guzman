@@ -1,0 +1,10 @@
+[0] Tablero 8x8, 9 colores, 12 hilos
+[1] Esquinas juntas: las esquinas son parte de la búsqueda; un solo recorrido para todos los grupos
+    grupo 1, orden menos opciones: estimado 5.02e+16 nodos
+    grupo 1, orden interior primero: estimado 7.02e+14 nodos
+[1] Estimado de Knuth por grupo (nodos): 7.02e+14(i)   (i) = interior primero
+[2] Grupo 1/1: ruta unificada (mapas por lado), orden: interior primero; grupo grande: 3 estrategias a la vez (normal, pieza menos restrictiva, reinicios)
+    portafolio: encontró la solución el equipo "interior primero + pieza menos restrictiva" (nodos: interior primero 586752, interior primero + pieza menos restrictiva 453120, reinicios, interior primero 643072)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 4 s
+RESULTADO resuelto=1 ms=4475.5 marcos=0 nodos=1682944 grupos=1/1 hilos=12 t_marcos=0.000 t_interior=1.460 lados=0 unificado=1 max_colocadas=64

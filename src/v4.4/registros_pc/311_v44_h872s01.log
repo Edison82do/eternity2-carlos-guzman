@@ -1,0 +1,22 @@
+[0] Tablero 8x8, 9 colores, 12 hilos
+[1] Esquina fija (2,1). 6 grupos, orden por coste: 9.1e+24 9.1e+24 9.1e+24 9.1e+24 9.1e+24 9.1e+24
+    grupo 1, orden menos opciones: estimado 6.15e+15 nodos
+    grupo 1, orden interior primero: estimado 5.97e+13 nodos
+    grupo 2, orden menos opciones: estimado 2.66e+15 nodos
+    grupo 2, orden interior primero: estimado 4.66e+13 nodos
+    grupo 3, orden menos opciones: estimado 8.98e+15 nodos
+    grupo 3, orden interior primero: estimado 4.87e+13 nodos
+    grupo 4, orden menos opciones: estimado 1.62e+16 nodos
+    grupo 4, orden interior primero: estimado 1.24e+14 nodos
+    grupo 5, orden menos opciones: estimado 4.69e+15 nodos
+    grupo 5, orden interior primero: estimado 1.09e+14 nodos
+    grupo 6, orden menos opciones: estimado 1.42e+15 nodos
+    grupo 6, orden interior primero: estimado 5.85e+13 nodos
+[1] Estimado de Knuth por grupo (nodos): 5.97e+13(i) 4.66e+13(i) 4.87e+13(i) 1.24e+14(i) 1.09e+14(i) 5.85e+13(i)   (i) = interior primero
+[2] Grupo 1/6: ruta unificada (mapas por lado), orden: interior primero; grupo grande: 3 estrategias a la vez (normal, pieza menos restrictiva, reinicios)
+    ... 5.7 s | grupo 1/6 | 2378273 nodos | revisado 2.53e-06%, faltan ~918 días [interior primero 2.53e-06%, interior primero + pieza menos restrictiva 3.48e-08%, reinicios, interior primero 2.43e-05%] (Knuth: ~583 días) | máximo colocado 51 de 64 | hilos 8 de 12
+    ... 7.7 s | grupo 1/6 | 4785871 nodos | revisado 3.94e-06%, faltan ~3.24 años [interior primero 3.94e-06%, interior primero + pieza menos restrictiva 8.53e-08%, reinicios, interior primero 3.10e-05%] (Knuth: ~580 días) | máximo colocado 52 de 64 | hilos 8 de 12
+    portafolio: encontró la solución el equipo "interior primero" (nodos: interior primero 2604290, interior primero + pieza menos restrictiva 1782784, reinicios, interior primero 2414592)
+[4] Grupo 1: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 9 s
+RESULTADO resuelto=1 ms=9369.4 marcos=0 nodos=6801666 grupos=1/6 hilos=12 t_marcos=0.000 t_interior=5.711 lados=0 unificado=1 max_colocadas=64

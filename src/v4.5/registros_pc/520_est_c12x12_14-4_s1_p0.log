@@ -1,0 +1,16 @@
+[0] Tablero 12x12, 18 colores, 12 hilos
+[1] Esquina fija (3,4). 6 grupos, orden por coste: 2.07e+38 2.07e+38 2.07e+38 2.07e+38 2.07e+38 2.07e+38
+    grupo 1, orden menos opciones: estimado 6.64e+25 nodos
+    grupo 1, orden interior primero: estimado 9.32e+20 nodos
+    grupo 2, orden menos opciones: estimado 7.32e+23 nodos
+    grupo 2, orden interior primero: estimado 1.61e+20 nodos
+    grupo 3, orden menos opciones: estimado 1.06e+25 nodos
+    grupo 3, orden interior primero: estimado 1.78e+22 nodos
+    grupo 4, orden menos opciones: estimado 1.12e+24 nodos
+    grupo 4, orden interior primero: estimado 2.89e+21 nodos
+    grupo 5, orden menos opciones: estimado 2.26e+24 nodos
+    grupo 5, orden interior primero: estimado 1.35e+20 nodos
+    grupo 6, orden menos opciones: estimado 1.11e+24 nodos
+    grupo 6, orden interior primero: estimado 9.48e+19 nodos
+[1] Grupos ordenados por estimado de Knuth (nodos): 9.48e+19(i) 1.35e+20(i) 1.61e+20(i) 9.32e+20(i) 2.89e+21(i) 1.78e+22(i)   (i) = interior primero
+ESTIMADO total=2.196e+22 grupos=6 ms=10177.1

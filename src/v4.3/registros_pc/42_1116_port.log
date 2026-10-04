@@ -1,0 +1,47 @@
+[0] Tablero 11x11, 16 colores, 12 hilos
+[1] Esquina fija (6,24). 6 grupos, orden por coste: 9.58e+16 9.6e+16 9.6e+16 9.6e+16 9.61e+16 9.61e+16
+    grupo 1, orden menos opciones: estimado 2.25e+06 nodos
+    grupo 1, orden interior primero: estimado 2.08e+06 nodos
+    grupo 2, orden menos opciones: estimado 2.72e+06 nodos
+    grupo 2, orden interior primero: estimado 1.24e+06 nodos
+    grupo 3, orden menos opciones: estimado 3.26e+06 nodos
+    grupo 3, orden interior primero: estimado 2.55e+06 nodos
+    grupo 4, orden menos opciones: estimado 4.24e+06 nodos
+    grupo 4, orden interior primero: estimado 1.46e+06 nodos
+    grupo 5, orden menos opciones: estimado 3.02e+06 nodos
+    grupo 5, orden interior primero: estimado 3.06e+06 nodos
+    grupo 6, orden menos opciones: estimado 6.99e+06 nodos
+    grupo 6, orden interior primero: estimado 1.71e+06 nodos
+[1] Estimado de Knuth por grupo (nodos): 2.08e+06(i) 1.24e+06(i) 2.55e+06(i) 1.46e+06(i) 3.02e+06 1.71e+06(i)   (i) = interior primero
+[2] Grupo 1/6: ruta unificada (mapas por lado), orden: PORTAFOLIO (mitad de los hilos con cada orden)
+    ... 8.1 s | grupo 1/6 | 530343 nodos | revisado 30.8%, faltan ~5 s [menos opciones 30.8%, interior primero 17.0%] (Knuth: ~6 s) | máximo colocado 55 de 121 | hilos 12 de 12
+    ... 10.1 s | grupo 1/6 | 1058496 nodos | revisado 40.7%, faltan ~6 s [menos opciones 40.7%, interior primero 20.7%] (Knuth: ~4 s) | máximo colocado 57 de 121 | hilos 12 de 12
+    ... 12.1 s | grupo 1/6 | 1582893 nodos | revisado 49.9%, faltan ~6 s [menos opciones 49.9%, interior primero 42.2%] (Knuth: ~2 s) | máximo colocado 57 de 121 | hilos 12 de 12
+    ... 14.1 s | grupo 1/6 | 2109945 nodos | revisado 85.7%, faltan ~1 s [menos opciones 85.7%, interior primero 53.2%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 16.1 s | grupo 1/6 | 2616459 nodos | revisado 91.4%, faltan ~1 s [menos opciones 91.4%, interior primero 57.5%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 18.2 s | grupo 1/6 | 3138403 nodos | revisado 95.7%, faltan ~1 s [menos opciones 95.7%, interior primero 64.9%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 20.2 s | grupo 1/6 | 3644276 nodos | revisado 98.3%, faltan ~0 s [menos opciones 98.3%, interior primero 84.7%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    portafolio: un equipo revisó todo el grupo (nodos: menos opciones 1940752, interior primero 2001920)
+[4] Grupo 1: sin solución
+[2] Grupo 2/6: ruta unificada (mapas por lado), orden: PORTAFOLIO (mitad de los hilos con cada orden)
+    ... 23.4 s | grupo 2/6 | 521787 nodos | revisado 17.2%, faltan ~10 s [menos opciones 10.1%, interior primero 17.2%] (Knuth: ~3 s) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 25.4 s | grupo 2/6 | 1044724 nodos | revisado 21.1%, faltan ~15 s [menos opciones 15.2%, interior primero 21.1%] (Knuth: ~1 s) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 27.4 s | grupo 2/6 | 1562385 nodos | revisado 42.7%, faltan ~8 s [menos opciones 22.4%, interior primero 42.7%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 29.4 s | grupo 2/6 | 2077636 nodos | revisado 53.5%, faltan ~7 s [menos opciones 26.5%, interior primero 53.5%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 31.5 s | grupo 2/6 | 2602689 nodos | revisado 59.2%, faltan ~7 s [menos opciones 32.0%, interior primero 59.2%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 33.5 s | grupo 2/6 | 3112159 nodos | revisado 70.4%, faltan ~5 s [menos opciones 61.4%, interior primero 70.4%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 35.5 s | grupo 2/6 | 3617857 nodos | revisado 77.7%, faltan ~4 s [menos opciones 67.0%, interior primero 77.7%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 37.5 s | grupo 2/6 | 4105002 nodos | revisado 78.7%, faltan ~4 s [menos opciones 74.6%, interior primero 78.7%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    ... 39.5 s | grupo 2/6 | 4609917 nodos | revisado 89.9%, faltan ~2 s [menos opciones 87.8%, interior primero 89.9%] (Knuth: ~pasó el estimado) | máximo colocado 58 de 121 | hilos 12 de 12
+    portafolio: un equipo revisó todo el grupo (nodos: menos opciones 2581520, interior primero 2504704)
+[4] Grupo 2: sin solución
+[2] Grupo 3/6: ruta unificada (mapas por lado), orden: PORTAFOLIO (mitad de los hilos con cada orden)
+    ... 43.4 s | grupo 3/6 | 530233 nodos | revisado 16.7%, faltan ~10 s [menos opciones 14.9%, interior primero 16.7%] (Knuth: ~8 s) | máximo colocado 57 de 121 | hilos 12 de 12
+    ... 45.5 s | grupo 3/6 | 1064265 nodos | revisado 32.9%, faltan ~8 s [menos opciones 32.9%, interior primero 20.7%] (Knuth: ~6 s) | máximo colocado 57 de 121 | hilos 12 de 12
+    ... 47.5 s | grupo 3/6 | 1596820 nodos | revisado 41.9%, faltan ~8 s [menos opciones 41.9%, interior primero 41.8%] (Knuth: ~4 s) | máximo colocado 57 de 121 | hilos 12 de 12
+    ... 49.5 s | grupo 3/6 | 2123664 nodos | revisado 49.2%, faltan ~8 s [menos opciones 46.9%, interior primero 49.2%] (Knuth: ~2 s) | máximo colocado 60 de 121 | hilos 12 de 12
+    ... 51.5 s | grupo 3/6 | 2651282 nodos | revisado 55.0%, faltan ~8 s [menos opciones 53.2%, interior primero 55.0%] (Knuth: ~pasó el estimado) | máximo colocado 60 de 121 | hilos 12 de 12
+    portafolio: encontró la solución el equipo "interior primero" (nodos: menos opciones 1406976, interior primero 1348049)
+[4] Grupo 3: SOLUCIÓN. Verificación: OK
+[5] Tiempo total: 52 s
+RESULTADO resuelto=1 ms=51874.4 marcos=0 nodos=11783921 grupos=3/6 hilos=12 t_marcos=0.000 t_interior=45.784 lados=0 unificado=1 max_colocadas=121

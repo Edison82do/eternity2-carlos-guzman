@@ -1,0 +1,18 @@
+    harris_6x6_6-2_s01:  [2 hilos] OK    6.236s
+    harris_6x6_6-2_s02:  [2 hilos] OK    1.295s
+    harris_6x6_6-2_s03:  [2 hilos] OK    2.341s
+
+Resumen (no resueltos cuentan como el límite):
+harris_6x6_6-2   2 hilos: 3/3  mediana 2.341s  media 3.291s
+    harris_7x7_6-4_s01:  [2 hilos] OK   19.500s
+    harris_7x7_6-4_s02:  [2 hilos] OK   13.998s
+    harris_7x7_6-4_s03:  [2 hilos] OK    2.842s
+
+Resumen (no resueltos cuentan como el límite):
+harris_7x7_6-4   2 hilos: 3/3  mediana 13.998s  media 12.113s
+    harris_8x8_7-4_s01:  [2 hilos] --   30.003s
+    harris_8x8_7-4_s02:  [2 hilos] --   30.002s
+    harris_8x8_7-4_s03:  [2 hilos] --   30.002s
+
+Resumen (no resueltos cuentan como el límite):
+harris_8x8_7-4   2 hilos: 0/3  mediana 30.000s  media 30.000s
