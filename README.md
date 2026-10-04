@@ -1,5 +1,7 @@
 # Frames, Signatures and Joints — Eternity II–type puzzle solvers
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23132447.svg)](https://doi.org/10.5281/zenodo.23132447)
+
 **Author:** Carlos Edison Guzman Marte (Calgary, Alberta, Canada; originally from the Dominican Republic)
 **Period:** 29 September – 3 October 2026
 **AI assistance:** the methods, ideas and decisions are the author's. The code, experiments and documentation were produced with the help of AI tools (Anthropic's Claude), under his direction. See [`paper/`](paper/) for the full statement.
@@ -107,4 +109,4 @@ Both require credit to the author, Carlos Edison Guzman Marte.
 
 See `CITATION.cff`. Suggested form:
 
-> Guzman Marte, C. E. (2026). *Frames, Signatures and Joints: an experimental study of exact, stochastic and GPU solvers for Eternity II–type edge-matching puzzles.* Zenodo. (DOI assigned on publication)
+> Guzman Marte, C. E. (2026). *Frames, Signatures and Joints: an experimental study of exact, stochastic and GPU solvers for Eternity II–type edge-matching puzzles.* Zenodo. https://doi.org/10.5281/zenodo.23132447

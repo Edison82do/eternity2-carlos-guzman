@@ -8,6 +8,8 @@ authors:
 date-released: "2026-10-03"
 version: "6.0"
 license: MIT
+doi: 10.5281/zenodo.23132447
+repository-code: "https://github.com/Edison82do/eternity2-carlos-guzman"
 keywords:
   - Eternity II
   - edge-matching puzzle
